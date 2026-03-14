@@ -1,0 +1,13 @@
+{
+  "ultimo_accidente": null,
+  "racha_maxima_dias": 0,
+  "ultima_ejecucion": null,
+  "total_accidentes": 0,
+  "fuentes_consultadas": [
+    "Google News RSS",
+    "Vanguardia (vanguardia.com.mx)",
+    "Zócalo (zocalo.com.mx)",
+    "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
+  ],
+  "accidentes": []
+}
