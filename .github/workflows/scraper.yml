@@ -1,0 +1,32 @@
+name: Scraper de accidentes
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: pip install -r scraper/requirements.txt
+
+      - name: Ejecutar scraper
+        run: python -m scraper.main
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'datos: actualizar accidentes.json'
+          file_pattern: 'docs/data/accidentes.json'
