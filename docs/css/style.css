@@ -1,0 +1,316 @@
+/* ===== CSS Variables ===== */
+:root {
+    --bg-primary: #1a1a2e;
+    --bg-secondary: #16213e;
+    --text-primary: #e0e0e0;
+    --text-secondary: #888;
+    --text-muted: #555;
+    --accent-red: #e74c3c;
+    --accent-red-glow: rgba(231, 76, 60, 0.4);
+    --accent-orange: #f39c12;
+    --accent-orange-glow: rgba(243, 156, 18, 0.3);
+    --border: #333;
+    --font-mono: 'Courier New', 'Consolas', monospace;
+}
+
+/* ===== Reset & Base ===== */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+/* ===== Layout ===== */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+/* ===== Hero Counter ===== */
+#counter {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+#counter h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.counter-display {
+    margin: 2rem 0;
+}
+
+.counter-big {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+#days {
+    font-size: 7rem;
+    font-weight: 700;
+    color: var(--accent-red);
+    text-shadow: 0 0 30px var(--accent-red-glow);
+    line-height: 1;
+}
+
+.counter-medium-group {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.counter-medium {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hours,
+#minutes {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--accent-orange);
+    text-shadow: 0 0 20px var(--accent-orange-glow);
+    line-height: 1;
+}
+
+.counter-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    letter-spacing: 0.1em;
+    margin-top: 0.25rem;
+}
+
+#last-accident {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-top: 1.5rem;
+}
+
+/* ===== Error Message ===== */
+.error-msg {
+    margin-top: 2rem;
+    color: var(--accent-red);
+}
+
+.error-msg p {
+    margin-bottom: 1rem;
+}
+
+#btn-retry {
+    background-color: var(--accent-red);
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+#btn-retry:hover {
+    opacity: 0.85;
+}
+
+/* ===== Hidden Utility ===== */
+.hidden {
+    display: none !important;
+}
+
+/* ===== Stale Warning ===== */
+.stale-warning {
+    text-align: center;
+    background-color: var(--accent-orange);
+    color: var(--bg-primary);
+    padding: 0.75rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+/* ===== Section Headings ===== */
+h2 {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 0.5rem;
+}
+
+/* ===== History ===== */
+#history {
+    margin-bottom: 2.5rem;
+}
+
+.history-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    background-color: var(--bg-secondary);
+    border-left: 3px solid var(--accent-red);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.history-date {
+    flex-shrink: 0;
+    width: 7rem;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    padding-top: 0.1rem;
+}
+
+.history-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.history-title {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    display: block;
+    word-wrap: break-word;
+}
+
+.history-title:hover {
+    color: var(--accent-red);
+}
+
+.history-source {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 0.2rem;
+}
+
+/* ===== Stats ===== */
+#stats {
+    margin-bottom: 2.5rem;
+}
+
+.stat-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.stat-card {
+    flex: 1;
+    background-color: var(--bg-secondary);
+    padding: 1.25rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stat-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent-red);
+    line-height: 1.2;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-top: 0.25rem;
+}
+
+.chart-container {
+    background-color: var(--bg-secondary);
+    padding: 1.5rem;
+}
+
+/* ===== Sources ===== */
+#sources {
+    margin-bottom: 2.5rem;
+}
+
+#sources-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+#sources-list li {
+    background-color: var(--bg-secondary);
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+}
+
+/* ===== Footer ===== */
+footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    text-align: center;
+    border-top: 1px solid var(--border);
+}
+
+footer p {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 0.25rem;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+    #days {
+        font-size: 4.5rem;
+    }
+
+    #hours,
+    #minutes {
+        font-size: 2rem;
+    }
+
+    .counter-medium-group {
+        gap: 1.5rem;
+    }
+
+    #counter h1 {
+        font-size: 1.15rem;
+    }
+
+    .history-item {
+        flex-direction: column;
+    }
+
+    .history-date {
+        width: auto;
+        margin-bottom: 0.25rem;
+    }
+
+    .stat-cards {
+        flex-direction: column;
+    }
+}

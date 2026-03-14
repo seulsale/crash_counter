@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador de Accidentes — Periférico Luis Echeverría, Saltillo</title>
+    <meta name="description" content="¿Cuántos días llevamos sin accidentes en el Periférico Luis Echeverría de Saltillo? Contador en tiempo real con historial y estadísticas.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <main>
+        <!-- Hero counter -->
+        <section id="counter">
+            <h1>Días sin accidente en Periférico Luis Echeverría</h1>
+            <p class="subtitle">Saltillo, Coahuila</p>
+            <div class="counter-display">
+                <div class="counter-big">
+                    <span id="days">—</span>
+                    <span class="counter-label">días</span>
+                </div>
+                <div class="counter-medium-group">
+                    <div class="counter-medium">
+                        <span id="hours">—</span>
+                        <span class="counter-label">horas</span>
+                    </div>
+                    <div class="counter-medium">
+                        <span id="minutes">—</span>
+                        <span class="counter-label">minutos</span>
+                    </div>
+                </div>
+            </div>
+            <p id="last-accident"></p>
+            <div id="error-msg" class="error-msg hidden">
+                <p>No se pudieron cargar los datos.</p>
+                <button id="btn-retry">Reintentar</button>
+            </div>
+        </section>
+
+        <!-- Stale data warning -->
+        <div id="stale-warning" class="stale-warning hidden">Datos posiblemente desactualizados</div>
+
+        <!-- History -->
+        <section id="history">
+            <h2>Historial de accidentes</h2>
+            <div id="history-list"></div>
+        </section>
+
+        <!-- Stats -->
+        <section id="stats">
+            <div class="stat-cards">
+                <div class="stat-card">
+                    <span id="stat-total" class="stat-value">0</span>
+                    <span class="stat-label">Accidentes registrados</span>
+                </div>
+                <div class="stat-card">
+                    <span id="stat-streak" class="stat-value">0</span>
+                    <span class="stat-label">Racha máxima (días)</span>
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="monthly-chart"></canvas>
+            </div>
+        </section>
+
+        <!-- Sources -->
+        <section id="sources">
+            <h2>Fuentes consultadas</h2>
+            <ul id="sources-list"></ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Datos actualizados automáticamente cada hora.</p>
+        <p>Proyecto comunitario de seguridad vial — Saltillo, Coahuila.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
