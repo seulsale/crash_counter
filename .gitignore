@@ -3,3 +3,6 @@ __pycache__/
 .env
 .venv/
 .superpowers/
+.playwright-mcp/
+docs/superpowers/
+site-preview.png
