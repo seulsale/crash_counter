@@ -86,6 +86,10 @@ def calculate_max_streak(accidents: list[dict]) -> int:
     for i in range(len(sorted_acc) - 1):
         newer = datetime.fromisoformat(sorted_acc[i]["fecha"])
         older = datetime.fromisoformat(sorted_acc[i + 1]["fecha"])
+        if newer.tzinfo is None:
+            newer = newer.replace(tzinfo=TZ)
+        if older.tzinfo is None:
+            older = older.replace(tzinfo=TZ)
         gap = (newer - older).days
         if gap > max_gap:
             max_gap = gap

@@ -123,6 +123,17 @@ def test_calculate_max_streak():
     assert streak == 55
 
 
+def test_calculate_max_streak_mixed_timezones():
+    """Streak calculation handles mix of naive and aware datetimes."""
+    accidents = [
+        {"fecha": "2026-03-10T14:30:00-06:00"},  # offset-aware
+        {"fecha": "2026-03-01"},                   # offset-naive (bare date)
+        {"fecha": "2026-02-20T08:00:00"},          # offset-naive (datetime, no tz)
+    ]
+    streak = calculate_max_streak(accidents)
+    assert streak == 9  # Mar 10 - Mar 1
+
+
 def test_calculate_max_streak_empty():
     """No accidents means zero streak."""
     assert calculate_max_streak([]) == 0
