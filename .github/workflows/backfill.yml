@@ -1,4 +1,4 @@
-name: Backfill de accidentes (ultimo mes)
+name: Backfill Last Month
 
 on:
   workflow_dispatch: {}
@@ -16,15 +16,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Instalar dependencias
+      - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Ejecutar backfill
+      - name: Run backfill
         run: python -m scraper.backfill
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'datos: backfill accidentes del ultimo mes'
+          commit_message: 'data: backfill last month accidents'
           file_pattern: 'docs/data/accidentes.json'

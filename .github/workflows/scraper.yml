@@ -1,4 +1,4 @@
-name: Scraper de accidentes
+name: Hourly Accident Scraper
 
 on:
   schedule:
@@ -18,15 +18,15 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Instalar dependencias
+      - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
-      - name: Ejecutar scraper
+      - name: Run scraper
         run: python -m scraper.main
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'datos: actualizar accidentes.json'
+          commit_message: 'data: update accidentes.json'
           file_pattern: 'docs/data/accidentes.json'
