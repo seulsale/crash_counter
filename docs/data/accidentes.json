@@ -1,13 +1,294 @@
 {
-  "ultimo_accidente": null,
-  "racha_maxima_dias": 0,
-  "ultima_ejecucion": null,
-  "total_accidentes": 0,
+  "ultimo_accidente": "2026-02-28-06:00",
+  "racha_maxima_dias": 2827,
+  "ultima_ejecucion": "2026-03-14T18:42:54.963801-06:00",
+  "total_accidentes": 40,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
     "Zócalo (zocalo.com.mx)",
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
-  "accidentes": []
+  "accidentes": [
+    {
+      "fecha": "2026-02-28-06:00",
+      "titulo": "Carambola y volcadura deja una mujer lesionada en el periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclpxd0N5Qi16OHJvY0RENUFScEpybXFGbFc2ZGxQZ1FYV3BWVlJGR295eFN5aWdCLW9RSXJwcFBjaFY3OFg1d2pYNklkczZPd1lMakV5b09yeVk5dmVSYUJxaTU3eFVZd1h6d0gtNUF3SUtDRlZhYUpEcTBpYUpqTTFDSWpZeEhXMGRiNUNCQ2pvWDlHeDZhVFhyWVJOZUNWcWVSalM3WDJJQnlKU2YyelV4cTBXYy1NVzZzYXJ1WTlXRXB4WmZxQVBxYThTbGM?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-28T02:00:00-06:00",
+      "titulo": "Choca y vuelca en el periférico de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDFhblRqUjd0R1dVZ2UxX0hidHNJbkwyUWhSZklqRzdBbWFaYnh1M1lRaUhlZHQyOXJuaE45NnpRV2RnbkdYd1FHVU5UYW9tT2xQTEdSWTJ3blBjMW83SFdBTE45eFdxam8xRGZxbXRRRkk2T2Y1YzNYUUsyTWEtYnFDYmZCT2tiTXZwY1VpaHd1ZndWaVRadHB5Q21UVlU?oc=5",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2026-01-24-06:00",
+      "titulo": "Conductor pierde el control y provoca doble accidente en el periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUx5WTh5U2xLUHFQVnVORnA2VGREbUdyLTRpOGdrSzZweE1BcldVNzE1cUh0YWdwdGtRaE84YktjVmlUNHE4N1c5WGFMTWE5TklnZVdMdVNFQXdvdWU3ejZ4MXluSnJoSlNpSW5wVXNrWi13SG1ycHJidkdhOWd3SldDNVpBTVBOUkZPNTJ6dEZDcWNDOHFYQ2tDS1hUdGd6TkxYWlY4UFIzVkE1V2s2eFNiV0FzLWFFZW02bnRXeVk4cnB4azVOakhtU20yWlZvUmMtUHdQdUM?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22T02:00:00-06:00",
+      "titulo": "Hombre muere atropellado en el periférico LEA en Saltillo - El Heraldo de Saltillo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGMwRkN1VGd1Y1djYmJXVlpPM3ExN20tcTJUSE8yMjQ0RHREUWFBTFg1V0dHVTN2RExYd2FyNWl6enVUQjFBdW5vWDJGYlNKNmpENGZncjhzcmN1djVQaUtSQllBcWk0ZlpWZFNmUW42M2tucGlGclJrNWtWZHBvQll1T2pnNHNzcU1CeU1XRlhwZWVjU2tBejNVR1Zhc3NLaGc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22T02:00:00-06:00",
+      "titulo": "Muere Hombre Arrollado al Intentar Cruzar Periférico Luis Echeverría en Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2VPbWk5UkJfcHRZSHd6VzRmOTBtYjdoX185UXlYSWtCRkhKOWkxTTdFTVg1amJBMkgxTlNXYzg2bmtuZWp4QWxZQ05mUGpLNlhBa0N2Nmc3LTdvOEw1UjRiRzVmNlpRSnlocHRidlFUQWkxazBHdTNBZXdRbFM2VV9XNmV4ekthbzFiUmlKZkZhUVpDaVdzWXd4YkVrT1poN3gzREJ2dE1hcVU?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22T02:00:00-06:00",
+      "titulo": "Saltillo: muere hombre atropellado por elemento de la AIC en periférico LEA - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNV9MOGxadDF5U1JBTjkzeDQ4NFl6VXlRdHhVY3ZtaUhKNVNJelJPSDVjVHJHX3BkNjkteXRxZzBYZVVTdjZjdDJvT21Ua1hZcjdTUmptekc1TS1pbVNwdlY0c2s0ZU91Ql80RmNpUVV0aWZKcWNuUjJoSld2X1Zya24zTTJ2R3N2TVg2SFdXbk9nVFA0ZFpWTzM0WGkwTm5obV9Iazg1QzBqZmREMTJhMV9BQmJGNU5MdWJtLTc3X1VWMXhzNHMwNA?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22T02:00:00-06:00",
+      "titulo": "Muere hombre al ser atropellado en LEA y V. Carranza; intentó cruzar la vía rápida - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnVkUER2U3M2QzVSdWhDcnlTaGh0TU9qekZJVF9idXJjWmZ1Y3MzeDdSUlJSdFBETmJtLXdGZ2NhXzZyWVRGbWtJeHVra0hJSDhvQVZpcDBQenNFUGNYbVIzTFRLdEhPX3VJV2pNUnJFRU1HYWhQQjh5VEloS0VTRG9rR25kV1F1NF91cW1ZalljWEdRa0J4MzdvMjFvem9Wb0hGYi1yOFpzVGvSAbABQVVfeXFMT2JHdGVna3p6bnBNWHZyQjlzYWt5YU1pUmJWT3lEaU9oMHgwTUdObGdyNjEtRTVWeGVWUG9LQ2EzdTFLUGF5eW5mRml0S2YyNUhIYlZ2TkVZLUk5d1Z1RUVFYjN6VDM3UE5ON0JMenFJbE5CMkdHbEhBTTZnWWRwZGpfVnFlVjZJT0NaMXFIOUFKUnBPMzlRQ0pYM015NUdxdnBqTXhZYVJxVVhaaHBUbHI?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22T02:00:00-06:00",
+      "titulo": "Fallece hombre tras ser atropellado al intentar cruzar el periférico LEA en Saltillo - Periódico La Voz",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGkzQ1ZRR1VhRXpaeUl5MFJsc2tWcGluaktYVXFJX2daOG1XZV91bVZLQS1OQ1A0a3htd2dtWFBnelptMlE0S1dLYTZQV0Vhd2pNeV9hMS1XV1Q5RUVVcllqQnFPVG9SU0dQbHpqR3lWMEZLdmtqZURJeDN5T2FoUmdEaGMxRkE4Tkd1MC16RDdSYzVLUU9tWUlXRUo3blg1M0hBWHRxSWxNZ9IBrwFBVV95cUxPRlNNMEZjMVI4YlgzR08zYmsza2dZZkdEOGxBNTBLV252UHBJZDFyc2NucU1hci03QTZTb1BmZDNiZmpFYVhKbFZSSUwxNGN1QnF1ZUtnX20wVmxaemZRYzVSZlU0Z3BabTJjRGxreGJZYmxOZldEOEZFTlJqd2lWcmRhQ0h0MXlLaDdnNG1KSllwU0VuY3dMSVJGNlB2V0VHWVlPM3F1TllpMEVOX2pZ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-22-06:00",
+      "titulo": "Tragedia en el Periférico LEA: Fallece peatón atropellado; conductor es empleado de la AIC en Saltillo - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVJTdkdCMXNTdzlTb2h0LTJQQU5iZV96aUtwQVBOX3pUaDlTUmtnMUpoT0M1ZWZmekZRNWpMTEFNMlZJcUZlVE9teVVZMDRUb2liTjUzUjUxM0lFeDBHSUhXNy1qYzhVc0NjSVV6OTU4WEZySXFuVTQxb3BZZUNKUjNRVDFIVlA0MW9TR2FCTlc4RUw4Y3fSAZYBQVVfeXFMT0NhOG5TTDBSb1BrQzdSZWtaeUdKZkU1WWRYZVp2U2RBeXhoeV9LdDNyWXA1V0VqVXJnQk53WUhnUWJYaHlNbnp5ejEzS0V3elQ4eHNqd1JoWHhIQXNNQTU0QkZhQXNLZXNBXzNMSXRJLUlSSDRWNEpqN2ltcVZWR3kwSktXbzAzNEZCT1RRVzhzcjhqQUl3?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-05T02:00:00-06:00",
+      "titulo": "Ruta EXPRESS de Saltillo choca contra puente en periférico Luis Echeverría - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZHhrcXpuQkRndFdHaVJ0bFJ5cUxNcXdzc2htZ0FXV2k4TThpUVFsLTRHR1pSRmc5UFNkSW04WlNGaUJXUU4zTUJMWnVmNTZXTWt3Y082RHZDb2E2YkVVTmFBNWxyTVNZTDJoS01JOHJ6cHo2emd3Y1dIVGowLTNEWGlRY081ZEVXbnFZaUxUWlgySVpMS0xCUHR5TVRxMGhYTlVGWWtqaEJFc2E0R1dpM2tGZVRlQnJlQ1lj0gHAAUFVX3lxTFAzUXFfZXdadURreXZHTWFzRkRXZlg1cWdTZjF5SVlyVmxld3FrWUtET0h0cEdTUWxFQWRRdV9feFdrVjlfUlllX1lDdW5mOU41RmRRQTVWMVRQQW8tcGxyUmtnUkpBUjdDX0FjOGF4WVV4eTRuMWdqSzBUYVZkbFc3RGwzWkk2V2lkY0xxUjNhTW1nUWhHdkNSODdpaldCU1RuVFRzMHF2Qy0tajlGeHpaZDhVN0J1b3c0WTRjdU4zaA?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-24-06:00",
+      "titulo": "Saltillo: Se impacta motociclista ebrio en Periférico LEA - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTg0T2xoU2U4Y1lUV0VuQmVNRGFqRlNCTEdDaExMWFI3XzBaeHRDMk85TlhqeTUzd2NiRGNMUkVRaFROTHRGS0JSUTFTQ0gycklPS1lNeW00cUlsaUNZWmxzN29KaTNoOGFEZHJzZjRpYlZhUnA2TzZKemMxa1FOc05wbHZ4emF1ZDlWZEVwNDJuMmd6OU40LXAzcllPdjluR0thenFrQUphV0ZFV0R6dw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-12-06:00",
+      "titulo": "Fallece adolescente atropellado en periférico LEA; van 7 muertos en accidentes viales en Saltillo - El Coahuilense",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNak5tUi03bHU0UjJTYWhPZUNTNVBtVE5jYVAtSDV4V0o1NXJXZGNDekZrWG43ZGlUUlB2TndFb19lSHB4aHAybWJOOXJ0MlAtSW9HQXFyMlhLdjRKaFFxZnFOelg1VGc5aWRsV0V0eEJEaHBfYVh4NVFrTmVsZTh1eWg5Yzl2NGZ3cnRVSnM5OGg1ajEtaEVzNUhLakVNcE9DWVE0UUNEYk5CNXJXZkw2RVhyTUhmQ1RLTjBXcDYxbw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-08T02:00:00-06:00",
+      "titulo": "Padre vuelca por conducir presuntamente ebrio y su hijo muere tras el accidente en Luis Echeverría, Saltillo - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdnVfRUFXYXZ2WjQ3SU43cTNWSWdqOEFoOVhWUXNQNVIzQmtZZXd4a1hTZVpua3h6R2tSV3pKd0x3Q0xGS3djZndqTTA4RTlQTFNDTEthS2FFbktsTnpFT1FiMW1IZnJXYTE5bnM4Y1N4elJ6R2dMaWJqbEduaUdDVXQ0U1kyY3lSdU9WQnhiTnlKTmhvZ2NYXzJiYkpKeHlu0gGgAUFVX3lxTE9MOFdwak1Tay1KQmJYUHRGNDBvTjVvdTJkSVJ4cnBTTFdQdW1ERFE2aENhYTl0RzJsQXdhaXRVM1Y1ZjVadkZIZl9GNlVEZ1YzYl9aeVNwOWdkM3U4RjJmdlZXVGs0TEx6RkVWbmY3VmpCVDhrY0VFTmI0MjlyQnVnTE5JaVdiSm9BalZlWkNRZE1UYWV6QXpaOFc1WmRVeDY?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-08T02:00:00-06:00",
+      "titulo": "Menor pierde la vida tras volcadura en Saltillo; su padre está grave y su hermano lesionado - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS01hSjR5NF9vU1RMMlBqUm9mZXZEbTI1aHI0NHViX2RyTVR3eVNXUWhQMmoxZE4tcVRsTVRyM3BTUmpJN045LU52Q3NmZ21oOFk3eTUtZWpWUnRvRGdCM0dKU082a3l1ZU4tTVpsQVhxV2w0bmtDWDBoOENySHphNTVvbUVfSkFvakhWUHlqVENXUXdjTmlESkJxSk5mdUNLSkpaeUxDZWVGV25Qdkw0a3FLaUtuNFg3Y3ZwemJDR0JRT2xKVldVX1FwMkkwZU5RbVNBdHRwYTJRVU9iWXc?oc=5",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2025-12-08T02:00:00-06:00",
+      "titulo": "Muere menor tras volcadura en el periférico LEA; su familia resulta lesionada - El Heraldo de Saltillo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWFINkVfNUZnZ3NaTnVaWEJuWFhNUnZLZ0UxeTN5VHIyaW5ITDJia2xiaWJIM3lKS2RmaEFFS0tpUFR5QXF4R3A4TXAzbFBzcTFVR2xHbnozbXBGVk96enZUb1diMUQ4cVpNc2R6VHZrcDRpbmVHbGh1VW12eWpVS05NcE8zZ01abHVYTzFlbm1sOS1sTEpZVmN0UFAxUmpnZmtrM2pPMkZKSHRkejM4NThtQ01UT0hJNUFB?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-08-06:00",
+      "titulo": "Muere adolescente tras volcadura en el periférico; su padre y hermano siguen graves - El Sol de México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM2xrQkZwY3AzTUp3Q2tZUjhYQXpZcGhDZm80V0l3Y29uYU5Sb1lleDFGb3lQS3hydGhrQms2TWVqdXhoU0dINTVYVlB5RV9sbkhPQ1BqdDhLZW4ySklpRzlHcUtvTGpXSU9QQlFDSUExSm5MdnZlMlNpR0FoMVlESjlxNXJwRlowdVhXZmtBZ2hnU24xZ201Y1BlUk5mNHduZlk0Mk9TbXUxX0hDU2ZvaVZTTlZlQTY1eGYxVGs1T1NsNnN6NVpNSmtnVUF1SmlOWmc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-06T02:00:00-06:00",
+      "titulo": "Ebrio ocasiona carambola en el periférico LEA de Saltillo; deja 5 lesionados - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGlGbDJ4bTE4cXM3b1ItRV9VLVdWMUxOSG80alpyZmZtTDhIVTRkUVFobDNpcXJBQjgyUHBub1lpbkd4b0R1QVdkOUR1a25uN1AzcDg5MVNGUVVTZFdBWE9LYUZIekduMXB1NVdDS2JIZjNqaWpUdHdiM3NkQ2huN184YWdhdi1hb1psSzFlbXhEc3FnMXVLaWpTT2ZadDJITm1uS1JmU2FRbm1yTk5qVnM1Q1psamlydzBPQUJkdlpLeUNxQUs5cTZB?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-06-06:00",
+      "titulo": "Saltillo: cambio de carril mal ejecutado provoca choque por alcance y caos en el periférico LEA - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmh4TnhreGNyS2hWSXZNaGRtNjVPdFVSc19fVzRDSk50UG1DVnJLWXc2NmNPUmJ2LWZtVVotS3o4cVQyRjVNR0ljQjUzeEJCak9CYUNvSUwyaFdrNHhvSjI4R256bW1OdVdxVU9TcWtTUDdqbzdCbEVNNDF3bGpoM2U4S2JHUXhGUVFXSnY5VUYxUExUT3RxaWhIU1lZX013RE9yejJRREo2bF9NdkRkVTlsQ3lORWRmT0dnSEo4NG9mU3BMUGZrSWpEdmhaUXJUOFRwT2d0QnBRbC1DNGdDZ01Gbw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-11-17T02:00:00-06:00",
+      "titulo": "Mueren Mujeres al Chocar en Periférico Luis Echeverría en Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXZVaHpXU1A5eFlHZUVmdm9jSHdLVmNvT2RFNWxydWpMQjBQOGxwdnRoNk5La195OEpXcUU1X3YzY2JPZXFVSlhQeVhWS0VRMXJuVU0wby1YMS03VEc4ZUV0YWk5dmJGLXJ2ZldyUVFoMmJNa1IzeC1IZU13MHJMWnlURHlMcW44ajFGcFBLR3RKUTZQQmxGLXdlOHBLMXhFVU5pelk1Mjc4endZQ3F5UDBUaGRKYnZr?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-11-17T02:00:00-06:00",
+      "titulo": "Tragedia. Fatal accidente deja dos mujeres muertas y 3 lesionados en el periférico Luis Echeverría Álvarez, Sa - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVRMN3lOTVZjclBBQWN2WDNQWnFkNDNCaG5UOVBrcTE0TWZFX283cy1IRHV6MGlJLWZxUGxjZVZlbExzdGFnV2d4QUd2ZHdwQzlKUjlGd0VPWFJKT2RkNjVZcHlJZzRtRWJ5TW5ITjB1YmF0cjFHZjhhV0pUZkJoOEItZlJRX19kRl9wRDY0QnotclJ6MkZsWXVXVGtkQdIBngFBVV95cUxOLUhyZ2tlUS1zZW1CU29FaXBTNFZqN1V6T3B3dkZabnFOOGt1dHZROGFwaGs3ZDE2VTVPYzFySzR6bTM1dHIxSkNnVzNyYnJVOUI0YUEyWFlESmhhTEQ0R1ZVVXZOSFYzT0dtdXNtWWMteXRnTEgtV0pUQlQyel9Kck5pSjJ3TFk5SzdIWkcxUmF2aXJ0MmR2TzZYWlFpdw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-11-16T02:00:00-06:00",
+      "titulo": "Mueren dos mujeres en fuerte accidente en el periférico LEA en Saltillo - El Heraldo de Saltillo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaTNMeE1nZnpaM0g3b3JFcUtnb1VYai1kSnE2OHBRMFdPRlB5R3pFbTBJeHU2WkUzLTRBOTlVZzQ1VG1ybHZtRjNtNktGeFhlM3pZanI5QVc1ZkFkV2tJS19Dekd6TE5SS3RIc1JNeEVFZ1IzUTE0UEhqR0JvU2JGWXBlT0EtNXRDSXJEdVNlV3VJYnBzQ3hRckdvVnZrRFRmOE56dzJzekdtdlRLOG40d19NZm4?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-11-16T02:00:00-06:00",
+      "titulo": "Fallecen dos mujeres en fuerte accidente vial en el periférico LEA de Saltillo - democratacoahuila.com",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2dOM3luLUZxdWt3dElSeU9yV0dFemRDLWRkRDNxR21OV0ExUU9VWFRUcFE5cVJFWHNaaEV6dzUxMXFZdkk4RFppUVRpS2FkZ3lHbjZEMEU1b2tkRjFCNGV5YWFzSWktamdFQi1GWEFJNWc1NVNMdTVaV1JvYU40M0MyLWxhTFdwNHF4N0pmbm94THp6YUN1N3VPQ19wSW5JTlh4SjU4TXd6aUk0NV9fMDNjaEFjNUs0blRLVdIBwgFBVV95cUxOWnFCWmU1bm5mV0I1dmx4WDdjTzhwS3cxazA1aWFFVFJYaGp4R1RaTDdOTndsR1psZFlkdHpMWTIxbkJwX2szWjVrSkdLd04wSXE1akxpdkpnclpTRlZEZy1pRFNJVHdkYTBuYnhHamQ0MnljbnFrMWJsSlRNVEd6T2FxSGV5bUxNTkV4NVI3Y1o3cmJDR2tuRVkwMjF3Vy05dDlrRHJpWFpJbElkeXFqQk5YVEMtNWhDOEJhWWV3bDJVQQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-09-12T01:00:00-06:00",
+      "titulo": "Daniel pierde dedo en accidente sobre el periférico LEA, Saltillo; responsable se dio a la fuga - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVlJ1d0lmZEI5WmhPRnktQWszZ0gtRjFJVWlNQTIyRFJXUGRqS3UyWkRETHdiam5FQVBJYVFOR3ZKRVROd215VlgtanJGTExaUGc3WW94NFVsTHIydDdtNENCQTVUaEp5NE5vRjZzVV9mVDBwNVhxRmpXTTRUSWd4NVBUNzhlekxnQ2NRRXkyN1lqWU9tOVMxWUJMYzJvZ2hVcnfSAaIBQVVfeXFMUE9NWVdJVUp4cXd4aVJFZFl6WEFCaXZTMVVFSlp3c1phQnBib0VROU8yYndQeG9jNEdvMUZWY2xQVkdFanF6VjBlMGRINEFaYzVLQ0x4SFU3QU1ZOWVkd1hiY29GVXVQZHZoMS1rR2RQSkN4Y3RwaXhfSVg2VGpOc0ZhdFJtMEhvVWdzcVhwQTRuR1o5X1RPWmQ5N2d4WTNwdkZR?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-08-19-06:00",
+      "titulo": "Adulta mayor es atropellada al intentar cruzar el periférico Luis Echeverría, Saltillo; auto le pasó encima - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcmpvaURWWTlEMEozay1sandlUmFoamdrNV8wbi1nTnBwWkxPVkNlbHkteC1KM3pBY2tydVdqTk56VERYNndkOGR0YXdBRGl2aU9kWXFkRjVFZzRmTDUyWl82a1FZUDhFLUV4SEcxR21nZlJnbGxRQ3dRd05nLTZBZ1loZE1oOUpjLW9admdnRDFlVlFxT3U40gGXAUFVX3lxTE5wR2doRzZjbmpIbC1FYnl3ZVFtdE90SXZFN3MwSVo1Y3VpWnd3Zk9FM21renhwQW1sbDFiV21OQks4Nm8wQmVuX0huMWZZY1pWRmYyVngyd2FXaEZvZ1ZFZXVmS0U4c0tWbkxKcDNJSmpER1VlbVdNeWt3VWlsazlIN2NJdmU2M3FPbDF5Smg0RGduR01lSHM?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-08-15-06:00",
+      "titulo": "Muere motociclista en el hospital tras chocar contra ruta Periférico en el centro de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYU5ZdHFfT1NGU2M5ZklJZ2s4UlNKXzJTd0ZfNklxQ3FXX3VaMUc2LTBnV3ExOVRqR1BEb2s0dUJFelN3ZldNakdPSXhpWS1panpkdU4wenJVYVZ6WXdvbUxoVFNuSXRCeHZMZVNNNE5jUy0wYWhIRHRBTlEzSzFURTVqc0JUc3R1cmlZcnd6cUlMNDNUZ1ZrMm1pYlp1X3dlWHc3c3N1UjVSUWQwdXhvS3FjbTFkQ3ZZSEI2cmt4UDE3M1Y3RTVRdGdqTksxbUdDNVlhdjZyWnpRSU9SaFR1XzJB?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-08-15-06:00",
+      "titulo": "Motociclista se impacta contra ruta periférico y muere en Saltillo - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPak5DTzRzcEszUDJJSEVQR1dnMDFwdC15Mm4xenFFSkdKN1NJYUdyNXJibHE1TmdvSW55dUx6Tm11ZnFXUnhUR3hDRmZLUndIZmlhamltQW50STNwbDd2MDBfcjdqQVhBaklaajdfNGlRRmVmeDVjdVJLaUI5eGIzcWdLR1l3MUh4MmVkaXVRY1VFbEozeDAxRS1lVTc4OUFMbllOTGRzUUx1ZzFGcTBR0gG0AUFVX3lxTE5wcjI0WFFCREJ4a29MT3djNTNpT3JMa1ExcXNBenpuYnRZX1ZiRklud2k0bVFrVVpyNDBlT01EUGtDYWdSVDFpQUZKbkF4OWZoNGxXOGt1dk1xNkFZVWhoQ0pLQ25BdldUN0xUSWVScU1yamhkMmlqU3B5QWYyUzBJVjR0VTNsQ1M2cERCZ2d0bUJmeU5PM2VYS0JCSS11M0VueHBSeFFJUU5WTnVDVzdELWNKdw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-07-20-06:00",
+      "titulo": "Joven es arrollado bajo puente peatonal del LEA de Saltillo y pierde la vida; responsable huye - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRk52WlV1c2JQTnBkazlmR0l5M1Q3d0hMRFNYYjhKNnZjMWx6MnpZaXUyMGtINlNxMkxsTENUNnQzUXRYRlkxV1NPTzE1dFVJcmRHWGdncm5YZzI5dlZGLUtYOV9IT2ZZblpCQkM5R0hwSFdvWmNDR3lMUGRnaHE2SDd3MDhGc1h6YzhZUGdXTE00VUZVdjVrZG5hOGRkb0xTZERFeW0yUk44MlJhajZSOXdDekxWQjFGYTRlTk1sLVJKa3lwTDhDWGVCcHlfV3VrVDFlUVV1Q2owb0d4VmRRcndB?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-07-13-06:00",
+      "titulo": "Doble volcadura en el periférico LEA deja tres lesionados en Saltillo - El Heraldo de Saltillo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ28xaHI1NEEtSmZxTk5ya1FRVHVzQndxT1hQZ0VfMWNrVDR5ckZhX1BtTW53aUxQSFJFdml0ZFpsd0hCOHVwRzdwcDczaS1ReW5ieU1NblBqVm5iQnNudmJsLUp3MXZHV2RHbHQ1Ulg4Nld4YTdHTUpmNWc0WWVuSFEyT0czekZyVVBjWW5uNzdmLUg3aW51WUtrbnpBLVhEdnJ2WUxRTXMyRjFjVExNeFRn?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-07-13-06:00",
+      "titulo": "Doble volcadura deja tres heridos y caos vial en el periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVVSUlpRRDhIMDR0OFV4bGhfX3Yyck42N0NlUjJNN0tZTEJBRkpfZTZpVTA2djdscmJhV3FzVGZzc1g4VXBBX0dVelJjbTF3YWFBaTZhRTE0LWRrU05ZVDZCYWhISGZjWTY4RHZES01hZnJSYmhMMlR6UnA2blp3elYtbWZRNGQ0TTcwRklyVVhiVl82Y3pjYWdHcDAyMzhycXZITXlhQlludXhuWFdtaWpVejJxTkxnM0I5eUdqV29vZ0N5aVJ0WHQ4SFV3QQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-06-01-06:00",
+      "titulo": "Muere motociclista al chocar contra muro y salir proyectado varios metros en Periférico de Saltillo - MILENIO",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYTU1YjFpaGdZMjltNklLQ2ZnOXI5a1NENWsxbzN6VlRyV19MTjlRZ2VZZk5OYjlBblRBT184NDBYQm5xMmN6WVFoN3cxVmtNQ2x0TTRvZEhKSUxFVFRHdHY4bnJjVmFrenlvOVZvanBNTGVPbVJteGEwekU0b21peVhIU2FyQUl2QWlMekpvZkxWRjRvem5JV0ZHWXJIMzhJMkHSAaIBQVVfeXFMTjlQQi01bC1TdU5nckJSVlNsVDlUNG5jbHFTa2JzZFlJNVNxUjVPbFBOYkV2dTRFOFlIbnc0eTFKZmZhS2paVndFVjlxMW9IRVFHQjE0a0h6Ukt0RVhBOW0tLVhvLUxBV0ZoX2dkWTQ5V2R4ejNMZndsbDZnSU53bjYtWGVKSTB4LUpJV2huQlVXMnB1TTd3U1VldElBRHFPZXpR?oc=5",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2025-05-25-06:00",
+      "titulo": "Accidente automovilismo en cruce del Periférico LEA en saltillo - El Horizonte",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTdWS3UxT3cxaFMyZDR2UjdLZnBwXzc5TXlxZDY3akVhUXpzVHNHNXJVSXRKYjN4c2JTalJYX1JHVElaWFZ6NldRX2JycC0tazJ2NzhQZldGVGxNRVdvQThwTDRoZXJFbllpb0JsejBmN1M4dUZTWXZCVlRVNzZ0bkFMYWEwLU5ha3Y2eEFmWEs4SFZsWi1EWmNKNFBMOVFwWFlVVUM5dC1Kc1o4Q0lR?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-03-28-06:00",
+      "titulo": "Agente de la Fiscalía sufre grave accidente en el periférico Luis Echeverría, en Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdXRySFR3cDZWbVpUdngyaHFkQkV1dnVmTkR2alo5ZnVJTXc5VjloU1FqU3FaSWVpelFOQUZWMk5sb3dzTTJqUGNjbHB5WkdxamFDbUFmVzZuU3BjS2YwdDd4ZTJmZ3RJR3B2ekVjRUI1TEdtWTY5ZnIxX1dubVZ6bHpocXN2LTY0NlVnUEhENWNleUxaQjltcEZqdGNMQlQ4Z2dOMnVBZ0ZSZjRhalE3aE0tbk5XQjRta2Z5TzhHVklDcEtRX19xUzBYTVBESVBtQkM0NG1KRlZjclE?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-03-27-06:00",
+      "titulo": "Accidente en Periférico Luis Echeverría provoca caos vial en Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYm1uMU1UcE0tVGp5bkxmMDBqNm9KU0hpNGN6VDBpRjVPZ05OeWgxVTMxMW5LRU5idGVhVE15VzVZSGxUVEFjTFdFWTVpOXhNdEZhNVRla1l1NXJURDR0NXdrQi1nZjBkdHI3c3dSY2Y3eXJZNGRIZ1pHRFpRNkR6alBxWVpFakJVT1lRUTBzRWdFcXdERW1YZV9COXBuXzlBNThGc211eGdQaTRnbGNCZkV2X3R2VEp0cEhYYS1iNmpGdw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-01-31T02:00:00-06:00",
+      "titulo": "Hallan a joven herido en el periférico LEA de Saltillo; versiones contradictorias sobre el accidente - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0NxWG40Sy1FRWhGdDNyckdKdk5yUE0zZzNXNGtYXy03RFNaQVE1dWxnbEFmRENMQktBMWI5ay1obk5RTkFiR25ZQ3g5eTFIVlQtTnZ0dGpUMU83T1BpelJRVzdfNUJBMVRtWVF6dzg0dE5SaVFpckRuUXRtbmNqTzZHNjk3RkNRRHhTdlgtRHA5VVlXaTBXVlRENlBrdXBfdm0zQWQyOGlOTjNQY3dnbDc0Z0tiTGxCaDhIZ0NDNVN5TVNGNXhQdk5QbjBzcFU3TUIzR0pOMkJyeXFvdU5TYVBmMFVQb0RJb1E?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-11-15-06:00",
+      "titulo": "Joven es gravemente herido tras ser atropellado en el periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHE0R1phLVA2dVlaNHhjcHlKdmNMLUdwdGhFdDdRTjVUaExDRHBqangzNlI3c2lsdlNWMjAyX3hzRnZyb0otbnFrU0tvMlJDZVhzWmQwNFZRRjlqaUtmaWdjRHZPc1l6aVFGcXFBc0RuRXdpTXZweXNZNGNUelJ1eFdZYjc5RFUtT01sM01lVlFMcHgydllvZEdSbFB4a3FuMW1MSGlycFkyWUNxX1M1QTkxTndQZFZlUDluNjUzMzZMbTVlSG5zWWV5OWkzWVVU?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-07-15T01:00:00-06:00",
+      "titulo": "Vuelca camión de transporte público sobre LEA; viajaba sin pasajeros en Saltillo - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNk9rU1M3aThFaUhDQlpUWU1DaWtxZU9hUDFYV2Y0Ukt1T1daN0ZlVnAzdTZ0V1h5WXZ3SU84cVU1ZFhhd0dSVUxNNE1qSFAtdHptUjFZaGJYTEswXzF3ZTNYcHZrbzk0emZQNkdXOXBfRDhPRGo4QlA2NEt3X1dGaFZsa1dfczBVVlZuczlxMTdMVmUzaVZ6WXM3UjJPcjFMVFJQelhDRDdYMzBhbkNjLVVoMGRuX3JBWHJ0a0FoR27SAcYBQVVfeXFMTU5LeGsySTNxd0g4MklJdV9aeTVQQXVYbXJIejgyUU5TM29ZWW1sX1MwNmVoY1pCeGtPNGxSbDMxRjNHd1RfY1NTelZkeWNhT3dnelN6UWtiN09IXy1ZSGJXOWh3RW4wZ01IamxzN21wMlFYM2l1QWtySmxwSHl4ZVctWjNoWkpsdDdHaC02djZSUGZQbHA0THhTMVpWalB3VDhSNmdnVXJHX1ExMzRIVXdGOXZ2Vk14STI0cUt4UDc3eEI5UlZB?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-02-11T02:00:00-06:00",
+      "titulo": "Muere mujer en accidente sobre Periférico LEA en Saltillo - El Heraldo de Saltillo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQjVXQktQWThPcHpaVTJNcDFRYkVTUmFaWmZBY3dBRnNTbFZPYnltNldtZC02ZkVfdDlHQWR0OEwzOVpTZnRFcGJRZ0ZwLU9EQkI3UWtvU3JXaWlVMkktaURuYlBwVUh5cmp3Qkc5WnpmQ3ZjUVhfUHI5ZHFtaVZDOWN4RmZ2RDNxRUtQSUpXWXVNdElnOC1HYmlFY1h0UEJOdGc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2023-02-18-06:00",
+      "titulo": "Accidente múltiple obstruye tráfico en el Periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazJXSEFELWhLSE5jblBabm9ZOGJfdk9UX1Z6TFlhajg4MEJ2QWw2ejhpcTIzWlpQb212VkY0YjdmWVdPbXdBVmxsVGFqVkFHZGRvdUdUODFkcFZiQ3l3X1oyOTBJellhakwybGZJMXQtVWVjeDVUNDhHVUFETHZNcEpodzlqSGhqVnZwaWE5MzNnaURld3BXVnh0ZGVzNkNvck02NnBFVUVGN0cySWJYa1RHVQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2022-08-09-06:00",
+      "titulo": "Saltillo: accidente con camión de basura en LEA deja a taxista prensado - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm1URWZvMGwzR1VfbVQ2VmtXXzczSVZPR2RTYXdxWGZMN0Y1N1FNODZlZ2kzdEZSbnRDUzAtdXhkY244MlhKbF9EUFdrN1dKLVR5SThzWXNUUUFrVzB5blhZNW95Y21VWXloajVhREU4dXJ4eTlBdW5oSkFJYmxEYkJGOE5MWUpLX0hMdnhTSzZZZzBiU0FlUmdlVmo2akhNTXBaa0R2bVhCdWUyazBWcnY4OXRJdw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2014-11-12T02:00:00-06:00",
+      "titulo": "Ciclista muere atropellado en el periférico Luis Echeverría - MILENIO",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUgzLUp0Znozckl4VDBGMzR1dEV1VjlwMUFYM28yWnlDRS12by1OR2Zpc01sTHpEai1LbHdSRFRPdEVsR2c4b1pBY1lFR094UldESnVkaWs4aWZXUVR5S0I0Z2lJMFZkLWVSWUN2WmpEUHpicUF6YWZTUGZzV0RZakVZT2FyWFI2WFJfRXl30gGOAUFVX3lxTE1BcnRfd1ppazJsVU94RkYzak5IZWNrU0k0bXhjWG1TYzNtVVQ0b1ZpMVJFTGhsamozbXM0MjNYQ3g4dVlKT2xhcHdUdHdzM0ZRbERFdF9WWUNiOUhlNTFDX3FLWGZvay1kbG9aRzZkaXhBaGV0ZG1Cc3ZMQUdWeDNQVTVWQm9DZW83S2xsQXc?oc=5",
+      "confianza": "alta"
+    }
+  ]
 }
