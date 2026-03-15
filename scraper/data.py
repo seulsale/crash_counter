@@ -1,7 +1,7 @@
 """Data helpers for loading, saving, and manipulating accidentes.json."""
 
 import json
-from datetime import date, datetime
+from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -84,8 +84,8 @@ def calculate_max_streak(accidents: list[dict]) -> int:
 
     max_gap = 0
     for i in range(len(sorted_acc) - 1):
-        newer = date.fromisoformat(sorted_acc[i]["fecha"])
-        older = date.fromisoformat(sorted_acc[i + 1]["fecha"])
+        newer = datetime.fromisoformat(sorted_acc[i]["fecha"])
+        older = datetime.fromisoformat(sorted_acc[i + 1]["fecha"])
         gap = (newer - older).days
         if gap > max_gap:
             max_gap = gap

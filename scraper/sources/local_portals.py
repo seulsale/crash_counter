@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 TZ_SALTILLO = ZoneInfo("America/Monterrey")
 
-USER_AGENT = "CrashCounter/1.0 — proyecto comunitario de seguridad vial"
+USER_AGENT = "CrashCounter/1.0 - proyecto comunitario de seguridad vial"
 
 PORTALS = [
     {
