@@ -18,6 +18,8 @@ SEARCH_TERMS = [
     "choque Periférico Saltillo",
     "volcadura Periférico Echeverría Saltillo",
     "accidente Periférico Saltillo Coahuila",
+    "choque Saltillo periférico LEA",
+    "accidente vial Saltillo Periférico",
 ]
 
 GOOGLE_NEWS_RSS_URL = (

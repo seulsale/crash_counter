@@ -93,7 +93,8 @@ def _normalize_url(href, base_url):
 def _extract_vanguardia(html, base_url):
     """Parse Vanguardia HTML for article links.
 
-    Looks for <article> tags containing <a> and optional <time> tags.
+    Looks for <article> tags. The title link is the <a> that contains an
+    <h2> or <h3>, or the first <a> with non-empty text.
 
     Args:
         html: Raw HTML string.
@@ -106,17 +107,33 @@ def _extract_vanguardia(html, base_url):
     results = []
 
     for article in soup.find_all("article"):
-        link = article.find("a")
+        # Find the <a> that wraps a heading (h2/h3) — this is the title link
+        heading = article.find(["h2", "h3"])
+        if heading:
+            link = heading.find_parent("a") or heading.find("a")
+            if not link:
+                # Heading exists but not inside/around an <a>; find nearest <a>
+                link = heading.find_previous_sibling("a") or article.find("a")
+        else:
+            link = article.find("a")
+
         if not link:
             continue
 
-        title = link.get_text(strip=True)
+        title = (heading.get_text(strip=True) if heading
+                 else link.get_text(strip=True))
         href = _normalize_url(link.get("href", ""), base_url)
         if not href or not title:
             continue
 
+        # Try <time> tag first, then <li class="date">
         time_tag = article.find("time")
-        fecha = _parse_time_tag(time_tag)
+        if time_tag:
+            fecha = _parse_time_tag(time_tag)
+        else:
+            date_li = article.find("li", class_="date")
+            fecha = (datetime.now(tz=TZ_SALTILLO).isoformat()
+                     if not date_li else datetime.now(tz=TZ_SALTILLO).isoformat())
 
         results.append({
             "titulo": title,
