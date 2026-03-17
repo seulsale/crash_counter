@@ -205,7 +205,16 @@ def _apply_evaluations(candidates: list[dict], evaluations: list[dict]) -> list[
 
 
 def _normalize_timezone(date_str: str) -> str:
-    """Append -06:00 (CST Saltillo) if the date string has no timezone info."""
+    """Ensure the date string is valid ISO 8601 with timezone for Saltillo.
+
+    Handles bare dates (2026-02-28), datetimes without TZ, and already-valid
+    strings. Appends T00:00:00 if no time component is present, and -06:00
+    (CST Saltillo) if no timezone offset is present.
+    """
+    # If no 'T' separator, it's a bare date — add midnight time
+    if "T" not in date_str:
+        date_str = date_str + "T00:00:00"
+
     # Check for timezone offset patterns: +HH:MM, -HH:MM, Z
     if "+" in date_str[10:] or date_str.endswith("Z"):
         return date_str
