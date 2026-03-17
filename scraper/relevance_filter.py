@@ -90,8 +90,10 @@ def filter_candidates(candidates: list[dict]) -> list[dict]:
             f"    Fecha publicación: {c.get('fecha', '')}"
         )
         snippet = c.get("snippet", "")
-        # Only include snippet if it adds info beyond the title
-        if snippet and snippet != c.get("titulo", ""):
+        # Only include snippet if it's a real description, not HTML junk
+        if (snippet
+                and snippet != c.get("titulo", "")
+                and not snippet.strip().startswith("<")):
             entry += f"\n    Descripción: {snippet[:300]}"
         lines.append(entry)
     user_message = "Evalúa las siguientes noticias:\n\n" + "\n\n".join(lines)
