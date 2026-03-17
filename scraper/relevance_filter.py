@@ -72,8 +72,11 @@ TOOL_SCHEMA = {
 }
 
 
+BATCH_SIZE = 25
+
+
 def filter_candidates(candidates: list[dict]) -> list[dict]:
-    """Send candidates to Haiku for relevance evaluation.
+    """Send candidates to Haiku for relevance evaluation in batches.
 
     Returns only those marked relevante=True with confianza alta or media.
     Returns [] on empty input or API error.
@@ -81,7 +84,27 @@ def filter_candidates(candidates: list[dict]) -> list[dict]:
     if not candidates:
         return []
 
-    # Build the user message listing each candidate
+    client = anthropic.Anthropic()
+    all_confirmed = []
+
+    # Process in batches to avoid output truncation on large candidate lists
+    for batch_start in range(0, len(candidates), BATCH_SIZE):
+        batch = candidates[batch_start:batch_start + BATCH_SIZE]
+        batch_num = batch_start // BATCH_SIZE + 1
+        total_batches = (len(candidates) + BATCH_SIZE - 1) // BATCH_SIZE
+        logger.info(
+            "Filtering batch %d/%d (%d candidates)",
+            batch_num, total_batches, len(batch),
+        )
+
+        confirmed = _filter_batch(client, batch)
+        all_confirmed.extend(confirmed)
+
+    return all_confirmed
+
+
+def _build_user_message(candidates: list[dict]) -> str:
+    """Build the user message listing candidates for Haiku evaluation."""
     lines = []
     for i, c in enumerate(candidates):
         entry = (
@@ -96,10 +119,14 @@ def filter_candidates(candidates: list[dict]) -> list[dict]:
                 and not snippet.strip().startswith("<")):
             entry += f"\n    Descripción: {snippet[:300]}"
         lines.append(entry)
-    user_message = "Evalúa las siguientes noticias:\n\n" + "\n\n".join(lines)
+    return "Evalúa las siguientes noticias:\n\n" + "\n\n".join(lines)
+
+
+def _filter_batch(client, candidates: list[dict]) -> list[dict]:
+    """Send a single batch of candidates to Haiku and return confirmed ones."""
+    user_message = _build_user_message(candidates)
 
     try:
-        client = anthropic.Anthropic()
         response = client.messages.create(
             model=MODEL,
             max_tokens=4096,
@@ -112,10 +139,25 @@ def filter_candidates(candidates: list[dict]) -> list[dict]:
         logger.exception("Anthropic API error during relevance filtering")
         return []
 
-    # Extract tool use block from response
+    logger.info(
+        "Haiku response: stop_reason=%s, content_blocks=%d",
+        response.stop_reason,
+        len(response.content),
+    )
+
+    if response.stop_reason == "max_tokens":
+        logger.warning("Haiku response truncated (max_tokens) for batch of %d", len(candidates))
+
     evaluations = _extract_evaluations(response)
     if evaluations is None:
+        logger.warning("No tool_use block found in Haiku response")
         return []
+
+    logger.info("Haiku returned %d evaluations", len(evaluations))
+    relevant_count = sum(
+        1 for e in evaluations if e.get("relevante", False)
+    )
+    logger.info("Evaluations marked relevante=True: %d", relevant_count)
 
     return _apply_evaluations(candidates, evaluations)
 
