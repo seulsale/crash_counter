@@ -1,4 +1,4 @@
-name: Hourly Accident Scraper
+name: Accident Scraper
 
 on:
   schedule:
