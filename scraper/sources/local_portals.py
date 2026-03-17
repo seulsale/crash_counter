@@ -22,6 +22,12 @@ PORTALS = [
         "extractor": "vanguardia",
     },
     {
+        "name": "Vanguardia",
+        "url": "https://vanguardia.com.mx/coahuila/saltillo/seguridad",
+        "base": "https://vanguardia.com.mx",
+        "extractor": "vanguardia",
+    },
+    {
         "name": "Zócalo",
         "url": "https://www.zocalo.com.mx/seccion/articulos-saltillo",
         "base": "https://www.zocalo.com.mx",
@@ -42,6 +48,12 @@ KEYWORDS = [
     "periférico",
     "periferico",
     "colisión",
+    "colision",
+    "atropell",
+    "prensad",
+    "incrustado",
+    "chocó",
+    "estrell",
 ]
 
 
@@ -131,9 +143,7 @@ def _extract_vanguardia(html, base_url):
         if time_tag:
             fecha = _parse_time_tag(time_tag)
         else:
-            date_li = article.find("li", class_="date")
-            fecha = (datetime.now(tz=TZ_SALTILLO).isoformat()
-                     if not date_li else datetime.now(tz=TZ_SALTILLO).isoformat())
+            fecha = datetime.now(tz=TZ_SALTILLO).isoformat()
 
         results.append({
             "titulo": title,
@@ -267,6 +277,7 @@ def search_local_portals():
         List of dicts with keys: titulo, url, fecha, snippet, fuente.
     """
     candidates = []
+    seen_urls = set()
 
     for portal in PORTALS:
         portal_name = portal["name"]
@@ -288,7 +299,10 @@ def search_local_portals():
             )
 
             for article in articles:
+                if article["url"] in seen_urls:
+                    continue
                 if _matches_keywords(article["titulo"]):
+                    seen_urls.add(article["url"])
                     article["fuente"] = portal_name
                     candidates.append(article)
 
