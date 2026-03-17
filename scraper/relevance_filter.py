@@ -20,6 +20,9 @@ SYSTEM_PROMPT = (
     "Si la noticia habla de otro tema o de otra ubicación, marca relevante=false. "
     "Asigna un nivel de confianza: 'alta' si es claramente sobre un accidente en "
     "el Periférico, 'media' si es probable pero no seguro, 'baja' si es dudoso. "
+    "Algunas noticias incluyen una descripción del artículo — úsala para "
+    "determinar si el accidente ocurrió en el Periférico aunque el título no lo "
+    "mencione explícitamente. "
     "Si puedes extraer la fecha y hora del accidente del texto, ponla en "
     "fecha_accidente en formato ISO 8601; si no, pon null."
 )
@@ -81,18 +84,23 @@ def filter_candidates(candidates: list[dict]) -> list[dict]:
     # Build the user message listing each candidate
     lines = []
     for i, c in enumerate(candidates):
-        lines.append(
+        entry = (
             f"[{i}] Título: {c.get('titulo', '')}\n"
             f"    URL: {c.get('url', '')}\n"
             f"    Fecha publicación: {c.get('fecha', '')}"
         )
+        snippet = c.get("snippet", "")
+        # Only include snippet if it adds info beyond the title
+        if snippet and snippet != c.get("titulo", ""):
+            entry += f"\n    Descripción: {snippet[:300]}"
+        lines.append(entry)
     user_message = "Evalúa las siguientes noticias:\n\n" + "\n\n".join(lines)
 
     try:
         client = anthropic.Anthropic()
         response = client.messages.create(
             model=MODEL,
-            max_tokens=1024,
+            max_tokens=4096,
             system=SYSTEM_PROMPT,
             tools=[TOOL_SCHEMA],
             tool_choice={"type": "tool", "name": "evaluar_noticias"},

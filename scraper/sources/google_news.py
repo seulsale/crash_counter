@@ -70,12 +70,15 @@ def search_google_news():
                     continue
                 seen_urls.add(link)
 
+                source = getattr(entry, "source", {})
                 candidate = {
                     "titulo": entry.title,
                     "url": link,
                     "fecha": _parse_date(entry.published_parsed),
                     "snippet": getattr(entry, "summary", ""),
                     "fuente": "Google News",
+                    "termino_busqueda": term,
+                    "source_href": source.get("href", ""),
                 }
                 candidates.append(candidate)
 
