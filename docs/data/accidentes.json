@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-16T19:30:00-06:00",
+  "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-17T23:22:35.462606-06:00",
-  "total_accidentes": 78,
+  "ultima_ejecucion": "2026-03-18T02:35:44.818184-06:00",
+  "total_accidentes": 82,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-03-18T00:00:00-06:00",
+      "titulo": "Chofer pierde la vida desmembrado tras volcadura, en Libramiento norponiente",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/chofer-pierde-la-vida-desmembrado-tras-volcadura-en-libramiento-norponiente-CP19614305",
+      "confianza": "media"
+    },
     {
       "fecha": "2026-03-16T19:30:00-06:00",
       "titulo": "Conductor no respeta alto y provoca choque, en Saltillo - vanguardia.com.mx",
@@ -43,6 +50,13 @@
       "titulo": "Saltillo: no guarda distancia y choca por alcance contra dos en periférico LEA - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1c3V1l0VGt4cHFFNmNSLXVPVWZuek9QQ1hodlBYS1p2LXp4SWFiMzhVbVYxeXdueVd5MFlhRURuYktfMnd5WWVINThzdW1qX3laaTFQNTBDNllBc2loa1l6R2pLQ0hJWk11R1FHeVR1M2Q3cTRzWm1nbUlFNFRtcnpOUjNzUlpSOG9teFBNZkdrNUNKaTJOaVlpZGVOSzhJcUlCaUhETHpJV1VhVzN5bS1MeDZaWVRoQmxwRkdMVGlJdEdDS1pua2I1UnA?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-14T02:00:00-06:00",
+      "titulo": "Trasnochado confunde luz del semáforo y provoca accidente, al sur de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3B0blFvUTBmYTdxTE5ZNlRGbGE4cS1fT0pKVTJIUFFEcDZoLXlpUjBYWHF1XzJtRUlIS3lKLVI5eVFQeDRucXpyUWhXTWpaWkVYSi1LVDN4eldvRHVpWHlyWURfQUExODBuQ2h3aExmenB2LWh4RjIxMjlUZXBHRERHeXdMUUN1aGlOY1I5Mko3a3BSd19iY2Vnb24zc3dZM3VmQlc3a1VqZ1NpTTZ5VnROQWpXR0ZsTkRQeTMzQVc3UU95VDl5NHdIRQ?oc=5",
       "confianza": "alta"
     },
     {
@@ -148,6 +162,13 @@
       "titulo": "Tragedia en el Periférico LEA: Fallece peatón atropellado; conductor es empleado de la AIC en Saltillo - Telediario México",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVJTdkdCMXNTdzlTb2h0LTJQQU5iZV96aUtwQVBOX3pUaDlTUmtnMUpoT0M1ZWZmekZRNWpMTEFNMlZJcUZlVE9teVVZMDRUb2liTjUzUjUxM0lFeDBHSUhXNy1qYzhVc0NjSVV6OTU4WEZySXFuVTQxb3BZZUNKUjNRVDFIVlA0MW9TR2FCTlc4RUw4Y3fSAZYBQVVfeXFMT0NhOG5TTDBSb1BrQzdSZWtaeUdKZkU1WWRYZVp2U2RBeXhoeV9LdDNyWXA1V0VqVXJnQk53WUhnUWJYaHlNbnp5ejEzS0V3elQ4eHNqd1JoWHhIQXNNQTU0QkZhQXNLZXNBXzNMSXRJLUlSSDRWNEpqN2ltcVZWR3kwSktXbzAzNEZCT1RRVzhzcjhqQUl3?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-17T02:00:00-06:00",
+      "titulo": "Exceso de velocidad origina choque contra muro de contención, al sur de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVdGTld0YlA4c0tqZWtheHdSaUhaeWtDdUtMai0tNkJObnlENVRRVUlUTnEzUmhEWUdpU3BaSi1feWtaRGNwa3ZqM3RMR1NfNjV6RWdsXzZaYWlYMmlhMTZPWnlRQU1aNDV0QVZkaEdWTWhXWkxQTmZlbmpoNnlpQ3ZIaFQ5Y3JsU1RpYVJ4Y2tZbEVOQkJKT1FHMll1YjRrbEVNRzQzNGxuVk5sS0hFZnpQOGJlajdvblR5S2VYbWY1Y2NDM2tHREUtNXo1YzA?oc=5",
       "confianza": "alta"
     },
     {
@@ -428,6 +449,13 @@
       "titulo": "Accidente en Periférico Luis Echeverría provoca caos vial en Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYm1uMU1UcE0tVGp5bkxmMDBqNm9KU0hpNGN6VDBpRjVPZ05OeWgxVTMxMW5LRU5idGVhVE15VzVZSGxUVEFjTFdFWTVpOXhNdEZhNVRla1l1NXJURDR0NXdrQi1nZjBkdHI3c3dSY2Y3eXJZNGRIZ1pHRFpRNkR6alBxWVpFakJVT1lRUTBzRWdFcXdERW1YZV9COXBuXzlBNThGc211eGdQaTRnbGNCZkV2X3R2VEp0cEhYYS1iNmpGdw?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-02-20T02:00:00-06:00",
+      "titulo": "Conductores Provocan Aparatoso Accidente en Periférico de Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWZMRVFwQjBXWDVFS29RN0JzbE1Dc2lUbHVaMzBfcXJZaEVzTXo3NTFNSTlEb1BJbWFCR3RvZFBCVG55dk1pampwbkZmS0lOZ3paejJYUXVXVm1yR0hTZW1fbzVZYlN3c0VDdmFsSlBrM2U2V1N6S0h3QlcxdFpiaHU0Z19jTWd1OW5NXzBJNGRaVXRNY2otakhSbVBoNGMzVC1POHF3MWtoY2ctTVNqai1jNXJ1ZUdyZ0M0dEF5d1VKTDVLN09ESmxfQUdaVE1n?oc=5",
       "confianza": "alta"
     },
     {
