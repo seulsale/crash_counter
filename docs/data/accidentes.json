@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-18T10:47:53.669753-06:00",
-  "total_accidentes": 82,
+  "ultima_ejecucion": "2026-03-18T14:25:13.386716-06:00",
+  "total_accidentes": 83,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -436,6 +436,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdk1UV1h0YS13c2dSdHFiUEdfVFRtdWNvczVtSlBqdUFMTjQwMHlCVV9rZUFVRVdkNUlNNEN5SUktbEFNRjl0ay0zV1ZhVGhWZDVEQVZJc0dKSXVJWWJlcDZBM1FnVXY3Y1ExcHZPQlMtbG80QXltdExDOVUyVWliaGZ1NkVQRDVDZ01GU2tOX3lRMG1vQmNvY2VXVFNZUHFscU1Za3JMTk9MQWVBSGU1cU5LR2NMRXVUb1p1b1R3Tjh3REx1ZTgwR2tQVVFXMnNtSy00dlZJang?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-04-21T01:00:00-06:00",
+      "titulo": "Se registra aparatoso choque en puente de Saltillo - El Horizonte",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUlzX2VBOHdINFdYNlcxXzlCcy1icHJQV3Z5cEx3YWNWcmNxQnM3ZFVNRXJWNjlMYXBqcEtYN0dISG9hUVNDdjJTRE9hcVY2cTNyRWJEVEE5Qnd4UGJndXhVV0dCaGZMNmMxRmh5N3BNRFI1RGl1blllLV9RTndvXzY2VmpOSndCSEctdXZGVmEwRG51dXlEWHRUSks2QQ?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-03-28T00:00:00-06:00",
