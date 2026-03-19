@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-19T10:45:01.749622-06:00",
-  "total_accidentes": 87,
+  "ultima_ejecucion": "2026-03-19T14:26:33.082099-06:00",
+  "total_accidentes": 88,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -274,6 +274,13 @@
       "titulo": "Muere adolescente tras volcadura en el periférico; su padre y hermano siguen graves - El Sol de México",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM2xrQkZwY3AzTUp3Q2tZUjhYQXpZcGhDZm80V0l3Y29uYU5Sb1lleDFGb3lQS3hydGhrQms2TWVqdXhoU0dINTVYVlB5RV9sbkhPQ1BqdDhLZW4ySklpRzlHcUtvTGpXSU9QQlFDSUExSm5MdnZlMlNpR0FoMVlESjlxNXJwRlowdVhXZmtBZ2hnU24xZ201Y1BlUk5mNHduZlk0Mk9TbXUxX0hDU2ZvaVZTTlZlQTY1eGYxVGs1T1NsNnN6NVpNSmtnVUF1SmlOWmc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-08T00:00:00-06:00",
+      "titulo": "Presunto conductor ebrio vuelca en Periférico de Saltillo y su hijo pierde la vida - MVS Noticias",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2EtWU5nU0w1VEs3eTNDZUVKMUk0cXh5VnlScVpqbWdLMm1QR0t2U3FFS1pKR2x6N0hFN29VaTdUOHptUDZuZ0RsdFhFWk1tRVEyNGNvM1AzTkFFeFhYU2kwcTB1UnJ5SW9SbUFlcTNQNHI5TEFHZ3ZZV0JSRUtJdWdkWmlvdDJaU3BEc1BQdllWYUl6c2phcGluZXBOZ0h2b09HNGE2VzUwaHB2cU1nY0VEVDA2ckNzNDNCUE5obTRNZmlfdm53TWxqTjd3b1dI0gHQAUFVX3lxTE1rYS1ZTmdTTDVUSzd5M0NlRUoxSTRxeHlWeVJxWmptZ0sybVBHS3ZTcUVLWkpHbHo3SEU3b1VpN1Q4em1QNm5nRGx0WEVaTW1FUTI0Y28zUDNOQUV4WFhTaTBxMHVScnlJb1JtQWVxM1A0cjlMQUdndllXQlJFS0l1Z2RaaW90MlpTcERzUFB2WVZhSXpzamFwaW5lcE5nSHZvT0c0YTZXNTBocHZxTWdjRURUMDZyQ3M0M0JQTmhtNE1maV92bndNbGpON3dvV0g?oc=5",
       "confianza": "alta"
     },
     {
