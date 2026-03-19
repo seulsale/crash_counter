@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-19T02:30:09.762971-06:00",
-  "total_accidentes": 86,
+  "ultima_ejecucion": "2026-03-19T06:35:54.198750-06:00",
+  "total_accidentes": 87,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -484,6 +484,13 @@
       "titulo": "Hallan a joven herido en el periférico LEA de Saltillo; versiones contradictorias sobre el accidente - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0NxWG40Sy1FRWhGdDNyckdKdk5yUE0zZzNXNGtYXy03RFNaQVE1dWxnbEFmRENMQktBMWI5ay1obk5RTkFiR25ZQ3g5eTFIVlQtTnZ0dGpUMU83T1BpelJRVzdfNUJBMVRtWVF6dzg0dE5SaVFpckRuUXRtbmNqTzZHNjk3RkNRRHhTdlgtRHA5VVlXaTBXVlRENlBrdXBfdm0zQWQyOGlOTjNQY3dnbDc0Z0tiTGxCaDhIZ0NDNVN5TVNGNXhQdk5QbjBzcFU3TUIzR0pOMkJyeXFvdU5TYVBmMFVQb0RJb1E?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-01-19T02:00:00-06:00",
+      "titulo": "Se estrella contra semáforo tras perder el control en el Periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWXY1VVdoMkdvUmRXSDFfYUxsdzNmamM3VnhWTTVCQWRNZEQ2Yms4V2lQUi0xengycE5hakQxb3c2cWNoa1VjR3k2MVBKeFhwN252VjJ6X1dfRVo4WWJvOGswQ29NdVVfS1ktNVpBLVNWTTZZMmszcWxfQ2dWUUZIanM4aklNSUFtRGRIMVUyN1VUNmhYMjM5TV9EXzNiS283Qlh2aV9hdWRkQkx2cGM0aXBQZ2FURDR3eW9ITUNCcWhjYVEwRTIzNnhseno0M2FYYWdxUg?oc=5",
       "confianza": "alta"
     },
     {
