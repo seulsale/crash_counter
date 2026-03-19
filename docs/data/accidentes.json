@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-18T19:07:52.969243-06:00",
-  "total_accidentes": 84,
+  "ultima_ejecucion": "2026-03-18T23:19:24.927034-06:00",
+  "total_accidentes": 86,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -319,6 +319,13 @@
       "confianza": "alta"
     },
     {
+      "fecha": "2025-11-10T00:00:00-06:00",
+      "titulo": "Salvan su vida luego de chocar y volcar en el periférico, en Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTN3TkxfY0xjV2J3QnFQU1EzNUUxM0V2cFAxMmZWVEZlRTAwbTdydUp5UHVYV0ZaY212OHotWHFCa0pyeXhwWEhNTE5oWU5CUUxHQjhHSXRxUUNSMWxfRi1YSTVwaTNfcXVRd0NSaWk2cHRVaXFnMERoR091REdDQzk5VTk4bkhObDF0dWxlTkdRS05EeG9DUktsUFF6Mm9wYlpTMTFWZWdwX1J0cENXc3NRRXV2R2EwRXMtYVRIZ2M?oc=5",
+      "confianza": "alta"
+    },
+    {
       "fecha": "2025-09-12T01:00:00-06:00",
       "titulo": "Daniel pierde dedo en accidente sobre el periférico LEA, Saltillo; responsable se dio a la fuga - Telediario México",
       "fuente": "Google News",
@@ -575,6 +582,13 @@
       "titulo": "Video: taxista queda prensado tras ser chocado por camión de basura en Periférico LEA - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmV2VkRxbG1lZF80TDUwS2Q1c0kxU05EaTRldUNNRDQwUXFWVWpCSlVXX0xqazEzMS1ZVWlGS0xNS1U3NnhvVF9jOEFEY0JmM2F2WGhRdlhaSFdhX1RCN3Vpb3RnSkc0SVdpMWVkaVR4Q3c5bFpyTi14NjlxcWtETm96c19rTEhLVHdvVjR3NXVGYW9DOFoyYTNwUlhDcU1NTWlaTWdVVkw0aXZHVmM1a3lPaWZNRV81VFVkSkhuSjNVMjMycWxPTQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2022-07-30T09:50:12-05:00",
+      "titulo": "Se registra fuerte accidente en Periférico Luis Echeverría | Periódico Zócalo | Noticias de Saltillo, Torreón, Piedras Negras, Monclova, Acuña - Zócalo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXFqZWNCRFNKNGZNNVM5ck1qVmhGbGQtU1pNd0gxRVhieEFoSHRFQXBqUDh3T1NJNXNwUGZaeVlvWGFXOVgwR040ekQwckJwdHZsVWpGanBscjNGTHZmTXZLUVgwalZPNHVYRzZOZmJSYkZnbFhxNVB5MGx3Y1dEMldPdTJIUEU3bjF5aklR?oc=5",
       "confianza": "alta"
     },
     {
