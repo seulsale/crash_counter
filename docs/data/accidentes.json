@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-19T14:26:33.082099-06:00",
-  "total_accidentes": 88,
+  "ultima_ejecucion": "2026-03-19T19:04:13.567908-06:00",
+  "total_accidentes": 89,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -176,6 +176,13 @@
       "titulo": "Exceso de velocidad origina choque contra muro de contención, al sur de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVdGTld0YlA4c0tqZWtheHdSaUhaeWtDdUtMai0tNkJObnlENVRRVUlUTnEzUmhEWUdpU3BaSi1feWtaRGNwa3ZqM3RMR1NfNjV6RWdsXzZaYWlYMmlhMTZPWnlRQU1aNDV0QVZkaEdWTWhXWkxQTmZlbmpoNnlpQ3ZIaFQ5Y3JsU1RpYVJ4Y2tZbEVOQkJKT1FHMll1YjRrbEVNRzQzNGxuVk5sS0hFZnpQOGJlajdvblR5S2VYbWY1Y2NDM2tHREUtNXo1YzA?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-12T02:00:00-06:00",
+      "titulo": "Volcadura Provoca Cierre de Lateral del Periférico Luis Echeverría en Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3pxUFVwX2pRT0NISFBlUjJPUnZsTnhqSC1nUmJhdGZWSXNpMEFhNWdEY2UxdGJUZFBnTDVBU1VwUFVpTzhQOVBENmRfcmZHMnUtUEVsYUNGemRraG1JLTBhYlR4U3d3U2ZnUVJJVEw4Zm16eDU2VXpUM1lVbFRvUzR4WVdXWWMwc0wxR29XVVpEMjBYMHZXTklzb1hJeXpCWVdxdWtseFNZbjlOeV9fcDh4bnlEWkpHT28tX0s1dlhxQlNqXzJzenFfQ2tfaTdJV2RETWFhOTAwX0E?oc=5",
       "confianza": "alta"
     },
     {
