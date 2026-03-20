@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-18T00:00:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-20T02:29:05.169743-06:00",
-  "total_accidentes": 89,
+  "ultima_ejecucion": "2026-03-20T06:32:02.876402-06:00",
+  "total_accidentes": 92,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -417,6 +417,13 @@
       "confianza": "alta"
     },
     {
+      "fecha": "2025-06-06T01:00:00-06:00",
+      "titulo": "Se estrella contra barra de contención y otro auto lo choca, en Saltillo; no hubo lesionados - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTW5SVTdrZE92cENjVGRyMldyem5MaWxQM2xpU0FpdWtmT0dZYmltbDVaV2V5X2ZqZnBHa3BEWGtyQXgweFZkTk81ZXlHY1RnTTVJNnRvS0NENW15MkhaVnl3MEdyaXV0YVNkWjdxclJsLVFaUF9WLVJHaHJMMzhGaHVhQ1dmQjRJVGFRZ3owaHdFLUZLQmliRVFYWlZQZlpYdDNSX3ZEZkpWZWRHTlFJQlQxZWVHS1hxOUhsYzBKSGNoR2xCWFp6NEZDRzV2eHJRaVRpcmF0R0QwajNKWWc?oc=5",
+      "confianza": "media"
+    },
+    {
       "fecha": "2025-06-02T00:00:00-06:00",
       "titulo": "Muere Motociclista al Chocar con Muro de Contención en Periférico de Saltillo - N+",
       "fuente": "Google News",
@@ -452,6 +459,13 @@
       "confianza": "alta"
     },
     {
+      "fecha": "2025-05-05T01:00:00-06:00",
+      "titulo": "Se estrella transporte de personal contra muro tras intentar cambiar de carril en Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQVc0eFB1cHNRZ2xocWIxaDVHX1A5TFlLY2JXUUNzTEtQZTJ6VlJWNlBGVlZFTTQwNlc0TzV3dnp5NGY0NEdUaDlKUUR6RXN2VGRuRkxhR2pIM0NnS1lfeGN4UjY0STZQRUxxN2VMb0ZQS3hXWGhlUTRHZU1UTzFod2ZIdkJkaHgwMVRvcUlNNzBLTTNPa0duZjlpTmFWZEFEOE9SRDM5NU9iUU5NYURxQXUtR2xFUHMzbkNmNFpsdU5mOXlzS3k1VEZhTVFsNUlfZDRibnpzUHl4WHNVYlE?oc=5",
+      "confianza": "media"
+    },
+    {
       "fecha": "2025-04-28T01:00:00-06:00",
       "titulo": "Vuelcan repartidores de frutas sobre el Periférico de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
@@ -470,6 +484,13 @@
       "titulo": "Se registra aparatoso choque en puente de Saltillo - El Horizonte",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUlzX2VBOHdINFdYNlcxXzlCcy1icHJQV3Z5cEx3YWNWcmNxQnM3ZFVNRXJWNjlMYXBqcEtYN0dISG9hUVNDdjJTRE9hcVY2cTNyRWJEVEE5Qnd4UGJndXhVV0dCaGZMNmMxRmh5N3BNRFI1RGl1blllLV9RTndvXzY2VmpOSndCSEctdXZGVmEwRG51dXlEWHRUSks2QQ?oc=5",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2025-04-12T01:00:00-06:00",
+      "titulo": "Se estrella conductora ebria contra barra de contención en Saltillo; su estado de salud es delicado - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd1ZtbnpiZk9KVlNsTHZVUFlPMWhiWk5oMDZJQ2tlSFBHaUZVM1UyTHBaRmFZeFlPWTJKMEF1MDh1eUU5amFuTzhzYkhhVFEyQkQzXzRzZnZheU1EUHFLcGRkTVFQVF9VTzBPdTBKaFIwQ0ZVNEdRNTRqbXAtZjFuQ2ZjLVlZTXJHdTZGNEJ3R2luUXpBSy0zTDE0aHF0ZHBDSEQtNFhZd1FTVWltQTA5WUFlWk1JTzBfcGU5d1pSUDlNcVpaaTk0RTJHMXpZQjVudlNFbFdHdjlDR2pfWjNFaE5hbFJTYkd3?oc=5",
       "confianza": "media"
     },
     {
