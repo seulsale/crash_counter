@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-20T09:31:18-06:00",
+  "ultimo_accidente": "2026-03-21T19:06:49-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-21T14:14:02.348678-06:00",
-  "total_accidentes": 101,
+  "ultima_ejecucion": "2026-03-21T19:07:32.776166-06:00",
+  "total_accidentes": 102,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-03-21T19:06:49-06:00",
+      "titulo": "Saltillo: âMi triciclo se descompuso, mis cazuelas se acabaron pero estoy bienâ, dice Carlos, sobreviviente a choque",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/saltillo-mi-triciclo-se-descompuso-mis-cazuelas-se-acabaron-pero-estoy-bien-dice-carlos-sobreviviente-a-choque-GL19651575",
+      "confianza": "media"
+    },
     {
       "fecha": "2026-03-20T09:31:18-06:00",
       "titulo": "Joven pierde el control y destroza su auto en el periférico LEA, en Saltillo - vanguardia.com.mx",
