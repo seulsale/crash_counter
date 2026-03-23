@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-21T19:06:49-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-23T06:38:34.911359-06:00",
-  "total_accidentes": 103,
+  "ultima_ejecucion": "2026-03-23T10:44:38.727260-06:00",
+  "total_accidentes": 104,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -554,6 +554,13 @@
       "titulo": "Se estrella conductora ebria contra barra de contención en Saltillo; su estado de salud es delicado - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd1ZtbnpiZk9KVlNsTHZVUFlPMWhiWk5oMDZJQ2tlSFBHaUZVM1UyTHBaRmFZeFlPWTJKMEF1MDh1eUU5amFuTzhzYkhhVFEyQkQzXzRzZnZheU1EUHFLcGRkTVFQVF9VTzBPdTBKaFIwQ0ZVNEdRNTRqbXAtZjFuQ2ZjLVlZTXJHdTZGNEJ3R2luUXpBSy0zTDE0aHF0ZHBDSEQtNFhZd1FTVWltQTA5WUFlWk1JTzBfcGU5d1pSUDlNcVpaaTk0RTJHMXpZQjVudlNFbFdHdjlDR2pfWjNFaE5hbFJTYkd3?oc=5",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2025-04-05T01:00:00-06:00",
+      "titulo": "Amanecido joven ignora señalamiento y provoca aparatoso choque al norte de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYlNsZkJIVnlNNWo4a0szMzg3ZnRvTWRjTEdVaXpFUm0xUzg3ODZjVDZwTWtvb1g1bWpIYjVrem8yYklqTC1YSEw5OVFSSGpvN1QtRUx6MHh2aXNENVV4alBSdUVRMldxOXhQNUhEZTlVeHI3VGd3ejhoWVFyeTlXYzU5MmRDT3psZjV4STJsV3hibF9iN0RObjY4a0RLRk9HUmhQWkM0cFp4SEtUNmg4ZGFUaGVuNXRtRldpZVhZa2F1dTJ0UWtiOU9BaXYwNEhGRXJXYg?oc=5",
       "confianza": "media"
     },
     {
