@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-21T19:06:49-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-23T02:42:30.901045-06:00",
-  "total_accidentes": 102,
+  "ultima_ejecucion": "2026-03-23T06:38:34.911359-06:00",
+  "total_accidentes": 103,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -639,6 +639,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGJUZ1VtRjhuNzJLY3ZKSzk3N3JhR2t5WkRBX1BBZ2l3LV9wb0NpUHItOTlfaHRkSVdoUXFpeWZzSmx4Sm5ZZl96eW1abW45N19Pd05VU2UyQ0lqTFhrbE1nYjl6YlRSQkh2UHo3Q0wtdHNXZnd5MFY3cDMzRDU2Y3V1WU51UDZpbnRrUTFfOHk2RzA1d3dkbjRPc3VVVXczcGNYUnFEUGY4OG5Hb0t1aDhqdXp6akV2WVE?oc=5",
       "confianza": "media"
+    },
+    {
+      "fecha": "2024-08-06T00:00:00-06:00",
+      "titulo": "Ruta periférico le quita derecho de paso a taxi, lo choca y deja a 2 lesionados en la Bellavista, Saltillo - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2Y2NGlsNG04cDk1N1FwM3N1Y1ZKSFJ6N2d3eVpMdGNXeE55c3gtNWNQVkNGYnFmeXd4TTY5N01hZ1phanhmN2Y3RlphcVp3RGsxMWtZMUl3Z29qRGNONVVzN1Y2SmRuT0NFUHo5ZDZiN0lIWkd2c1VKRXZyNDJyZDRuUXZxZVI5NWtKcVZn0gGOAUFVX3lxTE9TX1JRcXRjWVVOaG0yNXh1RTBscEdIQy1PU3lIaU11eHJ6SGxxWjB5TkRSZE1qTXJ4Q29Fc1FSeUZqWjMtdWNCTlZMdnNqcUtaVVlzOFY4WS1fRmhOVDFBOEI3TjljSGRhNDBNRmZlOGc5UU9hYXptUW0yWmV4eHNCSFJQN0l1LUllRnhuaGc?oc=5",
+      "confianza": "alta"
     },
     {
       "fecha": "2024-07-15T01:00:00-06:00",
