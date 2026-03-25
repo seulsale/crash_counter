@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-21T19:06:49-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-24T19:06:36.551208-06:00",
-  "total_accidentes": 104,
+  "ultima_ejecucion": "2026-03-24T23:19:37.054713-06:00",
+  "total_accidentes": 105,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -337,6 +337,13 @@
       "titulo": "Presunto conductor ebrio vuelca en Periférico de Saltillo y su hijo pierde la vida - MVS Noticias",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa2EtWU5nU0w1VEs3eTNDZUVKMUk0cXh5VnlScVpqbWdLMm1QR0t2U3FFS1pKR2x6N0hFN29VaTdUOHptUDZuZ0RsdFhFWk1tRVEyNGNvM1AzTkFFeFhYU2kwcTB1UnJ5SW9SbUFlcTNQNHI5TEFHZ3ZZV0JSRUtJdWdkWmlvdDJaU3BEc1BQdllWYUl6c2phcGluZXBOZ0h2b09HNGE2VzUwaHB2cU1nY0VEVDA2ckNzNDNCUE5obTRNZmlfdm53TWxqTjd3b1dI0gHQAUFVX3lxTE1rYS1ZTmdTTDVUSzd5M0NlRUoxSTRxeHlWeVJxWmptZ0sybVBHS3ZTcUVLWkpHbHo3SEU3b1VpN1Q4em1QNm5nRGx0WEVaTW1FUTI0Y28zUDNOQUV4WFhTaTBxMHVScnlJb1JtQWVxM1A0cjlMQUdndllXQlJFS0l1Z2RaaW90MlpTcERzUFB2WVZhSXpzamFwaW5lcE5nSHZvT0c0YTZXNTBocHZxTWdjRURUMDZyQ3M0M0JQTmhtNE1maV92bndNbGpON3dvV0g?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-07T02:00:00-06:00",
+      "titulo": "Saltillo: Vuelta prohibida de tráiler casi provoca tragedia en el periférico LEA - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUJHOWpvWUFvazZJTG9MeWcxUndnTUlycE9wZlM5LWcwYmdjYzNQNEMxNmREdGstdklMWmJCaWJOd2plMkwtQU5QdjVYV1dMN3ZvVEhYZFZxdDJOVlY3bG9mMFUxdFBkZkdlMEJubGVDd3F0RFdSX3VEUU5HV2lhV2tINWNDY1BZX1U0Y3JUa1M0MWw4dG9PTGMwVVdmUTl5LUxUZVdrdHA0NllDYnYzWUJ6N1BraGgtZjUySGtoTUdGZE01VFloNURsT3JpR2s?oc=5",
       "confianza": "alta"
     },
     {
