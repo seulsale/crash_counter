@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-21T19:06:49-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-25T23:27:55.740587-06:00",
-  "total_accidentes": 106,
+  "ultima_ejecucion": "2026-03-26T02:41:34.952300-06:00",
+  "total_accidentes": 107,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -408,6 +408,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVh1QkhoVXI2R3J1bGNTaEpDckotM1ZNTmNXbDl2RHdKY0s3dEhXZzdyNVhMZzJXcXdrRDBVa1o1Q2xYMy1RaU5rdzhuWEcwbl9FQXNzcUdwUWN3V19wRmpOVkxIZV9KNkZ2UElRZmh0UGNGLUtWQk80QzRjdnlybWhZekxQRTNDUzE3TnZPTk12ZkpVV1VDMHpVYVY0NnlOVnp4Tmo2bUgzMUJodUo1b1RobHZDWVZOVEE?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-10-02T01:00:00-06:00",
+      "titulo": "Se registra choque múltiple y volcadura en Saltillo - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUZEMHpnVml2dHNMMEZiVHF5cm1rUlZYazlIb0ZwWVBTWURJdHNXRzhiNE9jVUZZVHYwN3JVRmI5d1BSRGNRQmhZN0NGT0V6QlRJNHFDWkpLZUZEbFFDb2p2MDcxdnpwbWVDejJSajhoQTdzQjd3TElsclhvc1NNVW53NEZnT2xIV0VndmhZeDh3Zm5ZTGJCeW5yYUMyRzh3dGhXREpCRUw?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-09-12T01:00:00-06:00",
