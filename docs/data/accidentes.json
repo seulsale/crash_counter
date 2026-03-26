@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-21T19:06:49-06:00",
+  "ultimo_accidente": "2026-03-26T11:45:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-26T10:52:24.033730-06:00",
-  "total_accidentes": 107,
+  "ultima_ejecucion": "2026-03-26T14:26:13.704420-06:00",
+  "total_accidentes": 109,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-03-26T11:45:00-06:00",
+      "titulo": "Saltillo: circula moto en sentido contrario y choca contra ruta Periférico en la Bellavista - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGM3MDdLdF9QR1hjTmdJZGFmWUtzUzd3ektVYVNrSndPZGhyeGtVdkx3Um5wc002TFQ3ZEVidFY1UGJudGVpR09EY09FRWNNTGNnVFFmRnRsOWY4TDRGZGV0cW5BLTA5S0hMYldKcTFXTlZmRGtUY1BidGlSdGdoTkU4VVgzTW5fdUZlQVB6a0IzdGdyNUlKX28zNkVEOVpOemgzVmcyVV9BbkZpNllaVDBkRFIxTkhCUk5rUUxwa0N4TlNhQjlNdmtMT0FXNVQyalJiaW9sT3ctZEI1MFE?oc=5",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-03-21T19:06:49-06:00",
       "titulo": "Saltillo: âMi triciclo se descompuso, mis cazuelas se acabaron pero estoy bienâ, dice Carlos, sobreviviente a choque",
@@ -78,6 +85,13 @@
       "titulo": "Saltillo: no guarda distancia y choca por alcance contra dos en periférico LEA - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1c3V1l0VGt4cHFFNmNSLXVPVWZuek9QQ1hodlBYS1p2LXp4SWFiMzhVbVYxeXdueVd5MFlhRURuYktfMnd5WWVINThzdW1qX3laaTFQNTBDNllBc2loa1l6R2pLQ0hJWk11R1FHeVR1M2Q3cTRzWm1nbUlFNFRtcnpOUjNzUlpSOG9teFBNZkdrNUNKaTJOaVlpZGVOSzhJcUlCaUhETHpJV1VhVzN5bS1MeDZaWVRoQmxwRkdMVGlJdEdDS1pua2I1UnA?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-17T00:00:00-06:00",
+      "titulo": "Muere Hombre Arrollado por Camión en Periférico Luis Echeverría en Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZHRnBwaXVKNWU2S1hnZ2VPVlZNN2RPMHozcTE2eUVrVTBZZDZTOEExM3JOUWpLTmlCb1l3VWZOeXB5TDhjb2Nja0luWWF1RVhMU21SNm1RZ3N5ZnVvMEt4YXF5R1RhMlN4SzQ0S0JEU0tUOWZTNmxUcFotdWpTQm9ySGFsQXo4XzVZS19Eb2ZEem9aSDg0MnRyYUF2RmF3WUE?oc=5",
       "confianza": "alta"
     },
     {
