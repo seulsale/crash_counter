@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-26T11:45:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-26T14:26:13.704420-06:00",
-  "total_accidentes": 109,
+  "ultima_ejecucion": "2026-03-26T19:11:17.823404-06:00",
+  "total_accidentes": 110,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -513,6 +513,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZF82WllsbUxxMTNCV2Y0d05WMzUwZC1XbEl5SVd2Mko3ZVhwNFBTNmFQS0d0MWVJR3hUVnFhRnN3czdoMDlPcFZKUlJLM1BzUzBES25NUUdCWktlbnhFUTgwY1IwZjRTc1RpU3BDenpwYU5oS3RxZ1ZNVVl5cmhKaW9IZFp4ZWZlTktZYWZIdVVjUmN6eUNUdVhNYkpRR2tkVVVxa0VOR0o1bTczRWp5TGJoZC11WWRENmh4T1FNeHpTbGZtaXlfRHhCa1BGdnh5UHpXVnJoUkY5TGRpeXc?oc=5",
       "confianza": "media"
+    },
+    {
+      "fecha": "2025-06-08T00:00:00-06:00",
+      "titulo": "Muere motociclista arrollado en Saltillo Un trágico accidente cobró la vida de un motociclista la noche de este sábado, luego de ser embestido por el conductor de una camioneta que huyó del lugar sin prestarle auxilio. Los hechos ocurrieron sobre el periféric - facebook.com",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWnRSUDVJUGw2Vk1ocUp1cEloN3JYRkt3NzNhOXIwUVhqdkNTNWZIQUtoTXFaSmhtV2Fsd3VLTVVzT1ViNDRHZ2ZtY1ZQaFNfWGZETDhHYnAyRWtObml0blFFOVBEMUxNcUJkMlNZQ0pGLW5PMUZMQWF6TWwwNzFNRG9rU3BNamVyQ1hVYTIybkV4cXI0QWVTVGJLaGI5bXVhRzlaLTZhZUlCVUlCb2FjcURoYXZyNS1oVmh0ZTgtd1l3VGhfanlXdUpwcm5PMy04a1p6NlpFY1gyUlo5VDlNYk5KOURNLUdJb2JPdzgtR1k?oc=5",
+      "confianza": "alta"
     },
     {
       "fecha": "2025-06-06T01:00:00-06:00",
