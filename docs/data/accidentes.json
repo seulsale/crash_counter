@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-26T11:45:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-26T19:11:17.823404-06:00",
-  "total_accidentes": 110,
+  "ultima_ejecucion": "2026-03-26T23:29:01.853764-06:00",
+  "total_accidentes": 111,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -653,6 +653,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRnBkQU9Bc20zWTlBc2lmUE1kbnMtV1k1RDZOWEdZZW9majNnRkdTMlRXNXVjTzZQd2ZQRGRvd1pNLWZ2aE5KQ1lXaC0zNG9RSFFRLVVTLW04RnVnMjk2dC1MRG52WVZQd0RFQTFXUEFGTElqV0tENUdIdUZLQktNcnVtdExHSHlxSmtzX3diX2xES3R6RUVZT0ln0gGaAUFVX3lxTE1tcFFGbUp0OGlScW1xdVNkMUFPUGRPSWdzVVpuajZwdzBpSDBZakdLWWk1eDNaLUdYeWhOemRVTnRwbGNtRTJtbkVhYkNYNDZTOGp1cFZhbHc5WHdYRWhCOHhYVEpBS0QwT0JKVmlEMmhhRjJaYmx1RmV6SUpEX3U5X25HSFltakJ4WW9qYnVmV3RENjNOVlNrSFE?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2024-11-30T02:00:00-06:00",
+      "titulo": "Mueren tres jóvenes y cuatro resultan lesionados tras choque en Saltillo; alcohol y velocidad, presuntas causas - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdm1veUJTZlV0ZDI4cTJEX2FMWWNoNVpKUmJYM1FmeGhLdkZjT3dVQ3F4RzE3RmVWYVdDdmV4SWNZU0VNWWRYYVBSOUdHQzNBNGRsUTYwYWhKY1c1Y0RCWUowbmFfT3N0WEhlV3NBZTN3RGpmMDY5Rk1NRzRZOWxBbU1WLTFyQmZqX0k5VThaby1zOVlOOE81dHd0dE9POHBjVGxkM0hWelQyblFKVG9sUmo3dDVBZXFESnZCeVJMcjBzQ0RCdWxZZmpVdHYtOFBydkdDeXVOREJmUGNtNGV5MlBBSnZvWkFLRnY0TF9yRUtuNDlCLWFj?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2024-11-18T02:00:00-06:00",
