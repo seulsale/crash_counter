@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-26T11:45:00-06:00",
+  "ultimo_accidente": "2026-03-27T09:17:23-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-27T23:17:41.436824-06:00",
-  "total_accidentes": 111,
+  "ultima_ejecucion": "2026-03-28T02:26:34.986061-06:00",
+  "total_accidentes": 112,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-03-27T09:17:23-06:00",
+      "titulo": "Ebrio conductor vuelca en el periférico LEA de Saltillo tras perder el control - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEZYRjBxZl82U2Vwcm5rRWVuNzBCdHJ2OUVja2tmZ1RZam03UjdHR1FvRG5pWUVuNUkyWF81ejBoS2tJLWNoNHZmVjZqTG01Z3VMZVFKOVA3TU83TXVJUjNYQS1YOE1NZ3V3Z0hILWwxXzFYZUFZQ0xFUEtRS09yMHFQR3cwaUpXaUdpRl9sMllvd2hCZmZ4eXAxbkgwc3hYV0h2VTZiZThuZFgzVVpXT096TzJUY0xqblJqRzhEdkVLQzBSZ29Fa25JaDZrUQ?oc=5",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-03-26T11:45:00-06:00",
       "titulo": "Saltillo: circula moto en sentido contrario y choca contra ruta Periférico en la Bellavista - vanguardia.com.mx",
