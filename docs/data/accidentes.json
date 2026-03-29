@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-27T09:17:23-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-29T02:28:30.117207-06:00",
-  "total_accidentes": 112,
+  "ultima_ejecucion": "2026-03-29T06:28:50.088779-06:00",
+  "total_accidentes": 113,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -645,6 +645,13 @@
       "titulo": "Hallan a joven herido en el periférico LEA de Saltillo; versiones contradictorias sobre el accidente - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ0NxWG40Sy1FRWhGdDNyckdKdk5yUE0zZzNXNGtYXy03RFNaQVE1dWxnbEFmRENMQktBMWI5ay1obk5RTkFiR25ZQ3g5eTFIVlQtTnZ0dGpUMU83T1BpelJRVzdfNUJBMVRtWVF6dzg0dE5SaVFpckRuUXRtbmNqTzZHNjk3RkNRRHhTdlgtRHA5VVlXaTBXVlRENlBrdXBfdm0zQWQyOGlOTjNQY3dnbDc0Z0tiTGxCaDhIZ0NDNVN5TVNGNXhQdk5QbjBzcFU3TUIzR0pOMkJyeXFvdU5TYVBmMFVQb0RJb1E?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-01-22T02:00:00-06:00",
+      "titulo": "Accidente en Periférico Luis Echeverría causa tráfico intenso - elhorizonte.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTW92aWNlTWpmdm0xeDJXdjdTa2JoWXR4amJwS1V0cHRkeE9jMXU4S1FUdDhmQU5jTDM2QVdESnhNRGJveDRTb0trTkhwYVd5c25Ia3JKOVV0bVRMUEZKRm8yMDJfYXVMLVFqOGlpTm9HS2lRSm5KSl9xbDdFU2NKdU9TbjFLS1lxX0RjNTdXSUNYTmdCME1pQmFldVN6ZnQwaDRQU0VEeWlCbTB4?oc=5",
       "confianza": "alta"
     },
     {
