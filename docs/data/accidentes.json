@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-27T09:17:23-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-29T14:19:26.658114-06:00",
-  "total_accidentes": 113,
+  "ultima_ejecucion": "2026-03-29T19:15:41.056937-06:00",
+  "total_accidentes": 115,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -424,6 +424,13 @@
       "confianza": "alta"
     },
     {
+      "fecha": "2025-11-06T02:00:00-06:00",
+      "titulo": "Motociclista muere en Saltillo tras ser embestido por auto; era menor de edad - posta.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXN6WElWUlJwTWQ0enhnQ19tbjdJSkR5NkVjTnhlNDZiekVVTGxNTjM0eE5ibVUwV1k2a3hTSXRBYXowWlF2Z3ZiNHBoRlRZVlE5dUxvNG40dWJHaS1JSDM4Uy1hVGZDSlVGam9hNktWZy1lVzBqMENiNk51UUxHSFVFOXVzSmRBMGZlTURhajFlOWpwcFRLMm12V24yMGt1Vi1meWhkTVhId9IBrwFBVV95cUxNNVpSc0RmVGRkb0txV2U5Nlh2dnhWbTk4a0xmQzl1Q2VsZDMydFZIbjlKSUdLcmJSdlU3dnNYU2N6a1dKNFYyOTQySU1XazJtWmhzQ0xYX1l3VHhYRzBIeGo1Vi04akFSQUFvRS1RUllpQko5X1E4M0VVRWsweEU1SjBmd3pwZW5zc3pEcmRFMjNCa3ZjREg3MFlwVTFGZUg3OTE2em1JbG95Vnlub1Bv?oc=5",
+      "confianza": "media"
+    },
+    {
       "fecha": "2025-10-02T01:00:00-06:00",
       "titulo": "Chofer de tráiler se impacta contra muro de puente en periférico - El Siglo de Torreón",
       "fuente": "Google News",
@@ -639,6 +646,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWZMRVFwQjBXWDVFS29RN0JzbE1Dc2lUbHVaMzBfcXJZaEVzTXo3NTFNSTlEb1BJbWFCR3RvZFBCVG55dk1pampwbkZmS0lOZ3paejJYUXVXVm1yR0hTZW1fbzVZYlN3c0VDdmFsSlBrM2U2V1N6S0h3QlcxdFpiaHU0Z19jTWd1OW5NXzBJNGRaVXRNY2otakhSbVBoNGMzVC1POHF3MWtoY2ctTVNqai1jNXJ1ZUdyZ0M0dEF5d1VKTDVLN09ESmxfQUdaVE1n?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-02-12T02:00:00-06:00",
+      "titulo": "No calcula dimensiones y provoca choque al poniente de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTZoNTJZVGVmX0xVb3pfX0NkTjRJMUxOWnI2UGtSdFpJWjEzei12bmU4RDMyVjV0VlZvTHBWdTRJUVRSTGx6R00zUjRwUU5xV2JkWEg4NnB1dmJ3MXVJUTYzcDVhNHdBV2hWTEd2RHRkTHYyZjU3aTB3V0lQVTR1QVRLS05sU2ZhY1FuVE40SGZqelBfcmNGaWt0QjlmdjBueGdIdjFadG9GVGRaV19ydDlhYU5YMGxaTlE?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-01-31T02:00:00-06:00",
