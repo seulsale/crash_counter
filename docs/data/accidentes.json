@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-27T09:17:23-06:00",
+  "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-30T10:45:20.577483-06:00",
-  "total_accidentes": 115,
+  "ultima_ejecucion": "2026-03-30T14:33:33.103485-06:00",
+  "total_accidentes": 116,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-03-30T10:55:00-06:00",
+      "titulo": "Saltillo: ‘frenón’ en túnel de periférico desata carambola entre cuatro vehículos - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVDRLblBEUnpxQ2pBRXFFUFREX1loa242NGFhdVUwMjQ0LVQ1RTZlM2dHdHVYOWdRdHZEZkRfTlB5VVQ4S3BfMjZUMkc0ek4wWnYyMVdyQk9Jd0VPcGNaMGs0UWV5NmFLZWp5UDNSdW9vbFlpOGdQRGJsaVIxQnc4ZldzTDlEeUJTZWRlcGhaZW1lNjJGUlRPQkQ1QnpnZURFTzFFTXBXeGR3eGhxVzNzS0ljVi15bF9udUZjZ2FQYlhES1BmSGljMDNHbThFQQ?oc=5",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-03-27T09:17:23-06:00",
       "titulo": "Ebrio conductor vuelca en el periférico LEA de Saltillo tras perder el control - vanguardia.com.mx",
