@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-03-31T06:46:56.877203-06:00",
-  "total_accidentes": 116,
+  "ultima_ejecucion": "2026-03-31T10:46:26.570375-06:00",
+  "total_accidentes": 117,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -757,6 +757,13 @@
       "titulo": "Accidente Múltiple Provoca Caos Vial en Periférico de Saltillo - N+",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONU50aVZPOW9tWDhQampVVlltbzJaaDJBSno5YjZhbUQ3Y0F2WFpqeHpuTEtyeDItazdlYjlORHJaN1pDY00tOGVseUxoLWhwaWtWZDBjdnBNbUV2V1JlLXpCRXA2UkpKQXRqRktFQlFyRUpGanl1akpRc1o0cTNHSG9tYXFueXhZZUlYZTA0NzNWNnJ5b1prUUxmUnYxM2JYUzFaWmVLVmFmcXlmQjV3WEs5MUpWYnh4ZW55Nko1Z3FwOHA5WGc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-03-07T02:00:00-06:00",
+      "titulo": "Hombre muere atropellado cuando intentaba cruzar el periférico Luis Echeverría Álvarez, Saltillo - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDNJdFlyNzVsUkh1RmhpOGF5Um5sZ09jbUt5Y2d1YndyXzFhZkV5ekMtcXEwOTdCbDFOUTdfTTA3cjFSamQwR0cyem5jQ1lSVG14VDRlajJmR3V0QU50cXdsMjZiUGtmcnJjVHF6bjhsSExsaE1ibXM3QjRZanIyX1BiMXY2am1lekZSSFdkVkJnanpVc0HSAZYBQVVfeXFMTzg2RFN2dGFiLTNzMURRSWdYc3JucWUzNFB5aU9fSDVQdWJiWUd3ZUJ4WHdQZ1ZmbE1wRzhjSEw2OWJaQTBiTGFjSWpsY2NPQ2dLaXc5Rjd3OHV4MzNxUHFiMXFlaHRTM1A3akhjdGpFdHliUVhSUXFzTnhQS0JkSWNFekprNlRPYm1WRnpvbmlITnpaQXRn?oc=5",
       "confianza": "alta"
     },
     {
