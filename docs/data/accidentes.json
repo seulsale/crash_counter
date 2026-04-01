@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
-  "racha_maxima_dias": 1606,
-  "ultima_ejecucion": "2026-04-01T10:42:52.009597-06:00",
-  "total_accidentes": 117,
+  "racha_maxima_dias": 1366,
+  "ultima_ejecucion": "2026-04-01T14:33:32.607525-06:00",
+  "total_accidentes": 118,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -813,6 +813,13 @@
       "titulo": "Reportan aparatosa volcadura en Periférico de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXh6QlZHaUdtWmppRUs2RG1GbFFhMGtTbndkMGZDeTdEXzBURjFjQmJqVVM2X1J2QW55YmlqU3JRcjh1cWpPRmZnY0JPS05TX29uX2FtSHJNazdRbl9jRXpzbnE0TTN6Ti1acHctNnVrTlpJaUVHT1ppTTZ4dDl6ODNCS0VNOUpYZTJuT1RaVnBLbmFuZzBUV3hsODJvUzVXMTBxMDFMdU5ndE1J?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2021-10-14T00:00:00-06:00",
+      "titulo": "Accidente en Periférico de Saltillo deja 4 personas lesionadas - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUW5mYnhMQXJ4MjN5cFVJZXpPbjliRTN4YnFOZzltdlhmczdWakdlTFNGM1paejNGVnhIUEM0NG1Xb3d4Z1N6bU9LWG12VDJhSXhzRUJYOFRVQ1FjZDZnQlV6NWNQNkhXVERzRTR4TkRjZm5kLUxmRXBJUkcxS0JPLWJKQWF3LVFQdThHOXl5MnUtd1JyNjViVFRZemFWYk4zc3Y0ZUMxVHdmUGRZX19IMFp4cm1jUQ?oc=5",
       "confianza": "alta"
     },
     {
