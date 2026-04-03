@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-03T02:40:55.162535-06:00",
-  "total_accidentes": 119,
+  "ultima_ejecucion": "2026-04-03T06:36:34.198151-06:00",
+  "total_accidentes": 120,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -527,6 +527,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ1NBU0JoekltZ215LWtyU3RXWE9BWlllMDAxWmUzUEJVS1Y0ME5BTGN6bnhpWTVmMGh0blgzcm5Xdm96U3dzaXd2MDhGRERQemctQnlCSHpIdW84QW92aXY0dE1nX1J4MHVIRzB4TTVkUC1FTFVqdVQxbW9uV1dGUUlodk5rVG5KdWZuaHktTkZXcHRIbUplSmlfdFZQLTRKdTkwT3BJM0FFYkVnei1VUFgyVlAxSTl4N0lPSkotQ2ZETk91OEljY3RXanZyVUdBa2JTRnhvSVdBZw?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-06-09T01:00:00-06:00",
+      "titulo": "Motociclista muere en Saltillo tras ser arrollado por camioneta que huyó - eltiempomx.com",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSE5SQmw4VzNyREdSanJDTWxjR0YwQUl5YmdrVXZUTDZrbXNUb0ExVmRYbzVNNWdKZ3o2TUlLNmdONUVHcVA2MUtzb2FtUmdvSk1IYlY0bzRDaloxMm4wNjNEMmREdDJTXzJFX2cwX0pJXzAxSWYxZWZfS1RtRTdpY19rS1czWnZlZE13UmxSWTlXRmQxUk9YbDJVMVdEbGlsMndUUzkxaF9Qd1ZKdTBRbEcyd0TSAagBQVVfeXFMUHI5RTFmZ2pqdmFYbVdNY04xTzFDdml4SDhKQjlhS3ViblBYSXMtUXRrNmJ0d0V6VnBOd1FMR1ZEaG1vZ1A3bHNKN3JqeFJjZ0hpR251RkhBS1VfZTB0MXg2RmZWVzREdHdQNjBiOWJKUl9CRlBBLXJtcE9BaWluM24wbGpacEx1M1UtY1FjT3Joc0tlUVRicXB1a1duTWlvdDRfU1RkYXBF?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-06-08T01:00:00-06:00",
