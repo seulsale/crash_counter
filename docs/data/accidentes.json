@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-07T14:34:36.859898-06:00",
-  "total_accidentes": 120,
+  "ultima_ejecucion": "2026-04-07T19:14:50.085874-06:00",
+  "total_accidentes": 122,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -92,6 +92,13 @@
       "titulo": "Carambola y volcadura deja una mujer lesionada en el periférico LEA de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclpxd0N5Qi16OHJvY0RENUFScEpybXFGbFc2ZGxQZ1FYV3BWVlJGR295eFN5aWdCLW9RSXJwcFBjaFY3OFg1d2pYNklkczZPd1lMakV5b09yeVk5dmVSYUJxaTU3eFVZd1h6d0gtNUF3SUtDRlZhYUpEcTBpYUpqTTFDSWpZeEhXMGRiNUNCQ2pvWDlHeDZhVFhyWVJOZUNWcWVSalM3WDJJQnlKU2YyelV4cTBXYy1NVzZzYXJ1WTlXRXB4WmZxQVBxYThTbGM?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-27T02:00:00-06:00",
+      "titulo": "Choque en el Periférico Luis Echeverría deja llamativa carambola sin heridos - Periódico La Voz",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVl0SUVOY3pscHBFZk9EU3lLTW9pMGQ4UzNaMndaRFFkTXA1aDNoWnU5NGpvV3hycHd6eXpTZkw0M2dRMWFaZ1N1LXZyeTJPck9HTHd4SXVGS094b2xBSmZsT09JMnRuWnUyb0F0MGRyX0VxSDVMaFB2TVZOOGhBLXV2eHpMMTBkNHdnMmNoQzFyeFduOUlqcHU3eFd5UmJnN0FQNTRVSjBzdWVxRWFwcNIBtgFBVV95cUxNRElLcTBWUmNBQnNHWXdfNk9XTWRSNlpnU3J2WTduaGNwa2RmTldmeFlfRF83eFJnVDlvaEl2NXZkU2xDdmc1VkRESmtYcmlkN2NBN2U1bU1ZZDk3UjgwZFFfUThkYnJrbDJJbVhpa3FvNVBZLXVYNXhiT1FxUE4taHdJZmhRYXpNbXIxU1dnYVJ4NUZlaHFJQVNodWdOdGNlM2RFbzFvZWk3N3Jka0VfUjVoNUd0UQ?oc=5",
       "confianza": "alta"
     },
     {
@@ -827,6 +834,13 @@
       "titulo": "Accidente en Periférico de Saltillo deja 4 personas lesionadas - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUW5mYnhMQXJ4MjN5cFVJZXpPbjliRTN4YnFOZzltdlhmczdWakdlTFNGM1paejNGVnhIUEM0NG1Xb3d4Z1N6bU9LWG12VDJhSXhzRUJYOFRVQ1FjZDZnQlV6NWNQNkhXVERzRTR4TkRjZm5kLUxmRXBJUkcxS0JPLWJKQWF3LVFQdThHOXl5MnUtd1JyNjViVFRZemFWYk4zc3Y0ZUMxVHdmUGRZX19IMFp4cm1jUQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2021-05-02T02:00:00-06:00",
+      "titulo": "Lluvia de choques en periférico Luis Echeverría - Periódico Zócalo",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbXRKamNBR1h3cmhBSEFUYms0Uk5FNjBuZkt5RWFmVTN0bTJXOGprZm1XUGFydFE2dGU2bDRKMGxYam9VdFVIaTVZU1BPVDdpNFdnR0kyOWVNOTBsNGZxbmxhNFQ0eE5mVURRdjhCZ3NGbDYwbnFjX1kwalN6cGs?oc=5",
       "confianza": "alta"
     },
     {
