@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-07T19:14:50.085874-06:00",
-  "total_accidentes": 122,
+  "ultima_ejecucion": "2026-04-07T23:43:07.854635-06:00",
+  "total_accidentes": 123,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -113,6 +113,13 @@
       "titulo": "Muere Hombre Arrollado por Camión en Periférico Luis Echeverría en Saltillo - N+",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZHRnBwaXVKNWU2S1hnZ2VPVlZNN2RPMHozcTE2eUVrVTBZZDZTOEExM3JOUWpLTmlCb1l3VWZOeXB5TDhjb2Nja0luWWF1RVhMU21SNm1RZ3N5ZnVvMEt4YXF5R1RhMlN4SzQ0S0JEU0tUOWZTNmxUcFotdWpTQm9ySGFsQXo4XzVZS19Eb2ZEem9aSDg0MnRyYUF2RmF3WUE?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-17T00:00:00-06:00",
+      "titulo": "Grave motociclista tras caer en periférico LEA - La Prensa de Coahuila",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDdHRzNnS29WRFdSV29JcWF1YUU1dzNoTE1reHNRR0VOREQzamdtV0tnaElPSHhrSVc0VE9PSG5wYnBudUM0TFMtX3dNYzNBR0JSdHV1U2g4dWlBOEY5d2JBekhFNVBPak5LYjB3Z3lMbFlKbEV4RUtSdUZ4cGxYd2JHdnVxUzJ5TUlaT1ZQSi1VbjhkUTAw?oc=5",
       "confianza": "alta"
     },
     {
