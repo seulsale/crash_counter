@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-09T02:58:34.186411-06:00",
-  "total_accidentes": 123,
+  "ultima_ejecucion": "2026-04-09T06:55:45.234697-06:00",
+  "total_accidentes": 124,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -834,6 +834,13 @@
       "titulo": "Reportan aparatosa volcadura en Periférico de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXh6QlZHaUdtWmppRUs2RG1GbFFhMGtTbndkMGZDeTdEXzBURjFjQmJqVVM2X1J2QW55YmlqU3JRcjh1cWpPRmZnY0JPS05TX29uX2FtSHJNazdRbl9jRXpzbnE0TTN6Ti1acHctNnVrTlpJaUVHT1ppTTZ4dDl6ODNCS0VNOUpYZTJuT1RaVnBLbmFuZzBUV3hsODJvUzVXMTBxMDFMdU5ndE1J?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2022-02-21T00:00:00-06:00",
+      "titulo": "Se registra aparatosa volcadura en periférico de Saltillo - elsiglodetorreon.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzZwZEFwdmlDVVR0a3lDUHB5UTBJNWJqUF9BQ3lVNzZPLVVkYi1sOWFhZkFLZldIMVF0R3IwRV9SOFA3QUVrNWh4SG00N0NWR3ZBN1ZCeVJOYlAwMnBacnZWMG53OUFqNkNCMnZNaWkxV0txUjhfT0pFTmIwMkdmU280Vld5ZnpSQTltSU8xYXNHY3VDb3NOTExreW9aUnEyd2NhbEFZREJlUmMxOG1Zcg?oc=5",
       "confianza": "alta"
     },
     {
