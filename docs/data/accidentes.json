@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-09T19:15:40.769474-06:00",
-  "total_accidentes": 124,
+  "ultima_ejecucion": "2026-04-09T23:52:48.500776-06:00",
+  "total_accidentes": 126,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -78,6 +78,13 @@
       "titulo": "Impacta a ruta Periférico al ignorar el semáforo en Saltillo; deja dos lesionados - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamRRMGtKU3V0VkNoeENrTEpGWUFlRXM3YW1nN0Y2Sl9ybTJydFl4dkhITFN1YXJMd0dtd21WQlBmZi1ycXhKV0hOcFVlVDhzRm9mcmhsSkZseFROSmptQXpmUzd2X3lCWG1kaXVKMWRWT0J0M3ZlSF9WOUF3cmFCTGNWR2R6b1RWZW9ZNlVmVno0VkFlY2lIbFZvSWUzTVhQWl9kb0lBamt1RjQxQ21wME9VZlB6RVROd1J4bldQcmZHdF9wYWNSb0lxeGE1Q09T?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-03-07T02:00:00-06:00",
+      "titulo": "Auto sale volando y termina sobre otro, al sur de Saltillo; hay dos lesionados - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0s0MTRvQ3NDaldlODg3QWRZUWxsN0tqV3d0a252M0hmcUp5bGZpa3JLYXV1bXpzOEh3ZnlDR19Pc3RyVk9Wd2QtUzNkdXFibGFHVHkwd0IyeWpFZzh1cVEyZ1RwaWxCcURDaFBndXNaNmZ3a0dnTnM3ODFTYk1EM3F2UmZROTdsdFBfenlXcTFma0hINGhYR1V2TGVRNENiOVRaYkNBdjJZWlN0SXpEMnlmWEl5Q2x1ZXhGQ2EtanNCRmNHdURBNmlsTQ?oc=5",
       "confianza": "alta"
     },
     {
@@ -807,6 +814,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazJXSEFELWhLSE5jblBabm9ZOGJfdk9UX1Z6TFlhajg4MEJ2QWw2ejhpcTIzWlpQb212VkY0YjdmWVdPbXdBVmxsVGFqVkFHZGRvdUdUODFkcFZiQ3l3X1oyOTBJellhakwybGZJMXQtVWVjeDVUNDhHVUFETHZNcEpodzlqSGhqVnZwaWE5MzNnaURld3BXVnh0ZGVzNkNvck02NnBFVUVGN0cySWJYa1RHVQ?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2022-09-02T02:00:00-06:00",
+      "titulo": "Aparatoso Choque Entre Camiones Provoco Caos Vial En Saltillo - RCG Media",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNm4yc1g0OUs3NXREZ281WHpjc0tnV0ZxUFNWQklidTZjN2JHTzFFNzFxdzJfUnFNTXltSFRpMy1KSlVVVnZtallrNWstN1htTFNrcmxQMjZDV1BWRDVIdEF3S2xnV2pDaVFnTE1JbXhWZ1hFUWVUYndjdmZLRXVsUHdndDhWQWtPM0psMTNYYmxNa2FPemc?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2022-08-09T00:00:00-06:00",
