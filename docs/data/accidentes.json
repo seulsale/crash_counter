@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-10T06:42:03.420413-06:00",
-  "total_accidentes": 126,
+  "ultima_ejecucion": "2026-04-10T10:39:00.380374-06:00",
+  "total_accidentes": 127,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -814,6 +814,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazJXSEFELWhLSE5jblBabm9ZOGJfdk9UX1Z6TFlhajg4MEJ2QWw2ejhpcTIzWlpQb212VkY0YjdmWVdPbXdBVmxsVGFqVkFHZGRvdUdUODFkcFZiQ3l3X1oyOTBJellhakwybGZJMXQtVWVjeDVUNDhHVUFETHZNcEpodzlqSGhqVnZwaWE5MzNnaURld3BXVnh0ZGVzNkNvck02NnBFVUVGN0cySWJYa1RHVQ?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2022-10-19T00:00:00-06:00",
+      "titulo": "Se registra carambola en Saltillo - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNV9BWkZMazNnQ3g4Yk1YbVFTM3l0Z3BNQmpXWVVWQ3N5aWtGX0ctczEtcjRpb2Rab2ZqRnlCUkQwRndnVE1hNVRySDlYWUZlMDRRTHhzb0pVY0dxazBHVWJTQjJ6R0dnSHRkQktvcWFZQlhnRUVxX05KVVIzcGFBbE1sOXU1RnNKRUUyUlJfV0k?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2022-09-02T02:00:00-06:00",
