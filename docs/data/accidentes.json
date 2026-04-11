@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-10T14:24:09.901067-06:00",
-  "total_accidentes": 127,
+  "ultima_ejecucion": "2026-04-10T19:10:37.177337-06:00",
+  "total_accidentes": 128,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -785,6 +785,13 @@
       "titulo": "Accidente Múltiple Provoca Caos Vial en Periférico de Saltillo - N+",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONU50aVZPOW9tWDhQampVVlltbzJaaDJBSno5YjZhbUQ3Y0F2WFpqeHpuTEtyeDItazdlYjlORHJaN1pDY00tOGVseUxoLWhwaWtWZDBjdnBNbUV2V1JlLXpCRXA2UkpKQXRqRktFQlFyRUpGanl1akpRc1o0cTNHSG9tYXFueXhZZUlYZTA0NzNWNnJ5b1prUUxmUnYxM2JYUzFaWmVLVmFmcXlmQjV3WEs5MUpWYnh4ZW55Nko1Z3FwOHA5WGc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-03-26T00:00:00-06:00",
+      "titulo": "Accidente en el periférico LEA deja 7 vehículos afectados en Saltillo - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHFfVGdrSV9PVGF6b0F1dGc0dnc0ejBETUpHM01Wb3BGVktQbHZ0TWg2SWY3QTdyd0VVTlZ3ZnVVbVEtcXcwVXRPem82QldvTGlYcjNKN3VFYU9BSTFYWnFwS2VNOUozR193bDlMbnhyUGpfSDgxTUhCVjdrZXMzREFXRkZFclM5VEc1R1h5QnFUWWVnTUwyTDU4RTV5bEFBaHJrQ0VaelVwQ1NHZmVtT9IBtgFBVV95cUxPSWhJZHVMSWZtTnlNVTN6U1pqX2pzYmNHSFBBNExmczV3MG82V2l6blFxUHJKN2d0cU15VENORVZKRWU4YXZrVi1KRHpwVDd6QXNiVlNxcml4RjZzYlJmbmEyME5NY1lxbDJoNWs1dWtqYWU4QXBLUVBpb3VPZmNZVS1pRXFzZW9lUXZqeG53dVZITGEwQmNsdG9qUTQ1T1BOaWtsalRTZDVLOTh5d0prLTZ2aGcxZw?oc=5",
       "confianza": "alta"
     },
     {
