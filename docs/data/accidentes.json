@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-13T06:57:17.606839-06:00",
-  "total_accidentes": 129,
+  "ultima_ejecucion": "2026-04-13T10:52:58.064755-06:00",
+  "total_accidentes": 130,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -667,6 +667,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYm1uMU1UcE0tVGp5bkxmMDBqNm9KU0hpNGN6VDBpRjVPZ05OeWgxVTMxMW5LRU5idGVhVE15VzVZSGxUVEFjTFdFWTVpOXhNdEZhNVRla1l1NXJURDR0NXdrQi1nZjBkdHI3c3dSY2Y3eXJZNGRIZ1pHRFpRNkR6alBxWVpFakJVT1lRUTBzRWdFcXdERW1YZV9COXBuXzlBNThGc211eGdQaTRnbGNCZkV2X3R2VEp0cEhYYS1iNmpGdw?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-03-08T02:00:00-06:00",
+      "titulo": "Saltillo: se pasa el rojo y termina prensado en su auto tras brutal choque; presuntamente ebrio - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR3NsT3V4R0wyZEprRTIxVHUyaTN5ZnJiaW53NUNLNU5PSVk2MUVFSXlmZmhkTTQwQ0d5V0N5bnI2MnpQRmVWU0pyNmx0OHlTSXBxVll1UGFDVXRUSkhRNXdFampMMi1qY2N3aGpmcXZyekhMM0VvWVRDMVc2ZGhWTElaX2ZIdHZtUElZOWZQQVgxX2NxdS1kR0JiT0Uza25FYVdJUnFVa3NsVWxGNGxZbjBhajVJY0RQZkw2M2FGeUpnUTVnX3Z4bUNmdU9YQ0wyLVV5Q00zbUlfbmRlcUNnUDR3?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-02-22T02:00:00-06:00",
