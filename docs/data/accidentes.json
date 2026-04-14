@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-14T03:08:27.077015-06:00",
-  "total_accidentes": 130,
+  "ultima_ejecucion": "2026-04-14T06:56:33.419272-06:00",
+  "total_accidentes": 131,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -750,6 +750,13 @@
       "titulo": "Joven es gravemente herido tras ser atropellado en el periférico LEA de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHE0R1phLVA2dVlaNHhjcHlKdmNMLUdwdGhFdDdRTjVUaExDRHBqangzNlI3c2lsdlNWMjAyX3hzRnZyb0otbnFrU0tvMlJDZVhzWmQwNFZRRjlqaUtmaWdjRHZPc1l6aVFGcXFBc0RuRXdpTXZweXNZNGNUelJ1eFdZYjc5RFUtT01sM01lVlFMcHgydllvZEdSbFB4a3FuMW1MSGlycFkyWUNxX1M1QTkxTndQZFZlUDluNjUzMzZMbTVlSG5zWWV5OWkzWVVU?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2024-11-13T00:00:00-06:00",
+      "titulo": "Conductores Despiertan a Hombre Acostado Sobre el Periférico en Saltillo - N+",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1AybTBQc3NrZ29ZWlZlSTJIUFM2c0RDN2pZVzNEV3EydTlvX09mWENzbVdPc19BRUU3QjliM1FQTVR4UURrRkJpNkNrRkhVR2t5VFV3MXlhYW4xdTNiR09qUFByd3BLcTJmTkJPbnM3WTBnRnVEQU42bzdWd012RldTRUtsaFZPWFlLVlBQQVBnaHR6LV91eVBEXzRpQkhWb0t4Yk4xaGNmZw?oc=5",
       "confianza": "alta"
     },
     {
