@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-03-30T10:55:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-15T23:55:47.868143-06:00",
-  "total_accidentes": 131,
+  "ultima_ejecucion": "2026-04-16T03:08:14.958042-06:00",
+  "total_accidentes": 132,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -107,6 +107,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVl0SUVOY3pscHBFZk9EU3lLTW9pMGQ4UzNaMndaRFFkTXA1aDNoWnU5NGpvV3hycHd6eXpTZkw0M2dRMWFaZ1N1LXZyeTJPck9HTHd4SXVGS094b2xBSmZsT09JMnRuWnUyb0F0MGRyX0VxSDVMaFB2TVZOOGhBLXV2eHpMMTBkNHdnMmNoQzFyeFduOUlqcHU3eFd5UmJnN0FQNTRVSjBzdWVxRWFwcNIBtgFBVV95cUxNRElLcTBWUmNBQnNHWXdfNk9XTWRSNlpnU3J2WTduaGNwa2RmTldmeFlfRF83eFJnVDlvaEl2NXZkU2xDdmc1VkRESmtYcmlkN2NBN2U1bU1ZZDk3UjgwZFFfUThkYnJrbDJJbVhpa3FvNVBZLXVYNXhiT1FxUE4taHdJZmhRYXpNbXIxU1dnYVJ4NUZlaHFJQVNodWdOdGNlM2RFbzFvZWk3N3Jka0VfUjVoNUd0UQ?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-20T02:00:00-06:00",
+      "titulo": "Motociclista cubano queda gravemente lesionado tras accidente en Saltillo, México - Cubita NOW",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3Q1TXQ4elRRRjNmaEhsMHhFYXlxTVlfZUY4amRDWGxkaFpDYThyWmZPR0hUcWl4ZFlQYldqbzVqbnVCUFFlTzVYVzRDZzJuQ3FXY1RIY2t6ZTFkWnY0ZkJYd1dUNHFWeVdvUjNJTjRycFBxcWl4R0FWSC1rTzlSeHhCd2U5Tkg2YVJFTmFwMGU5NnF2NEl1QVJJMzV4c0swaEdpelpSS1pqVVZBMjZR?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2026-02-19T02:00:00-06:00",
