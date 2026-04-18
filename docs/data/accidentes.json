@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-03-30T10:55:00-06:00",
+  "ultimo_accidente": "2026-04-17T14:37:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-17T14:34:07.866218-06:00",
-  "total_accidentes": 133,
+  "ultima_ejecucion": "2026-04-17T19:13:18.224836-06:00",
+  "total_accidentes": 135,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,20 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-17T14:37:00-06:00",
+      "titulo": "Intenta cambiar de carril sin precaución y provoca choque en el periférico LEA de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFVMMVc2N1BqMGpRNEJoY3NYNzJQZU5MN01RSGRLODBpXzhHa19OOHAxelFQVVB3Zkcxd0M4VDk2aE55OWR6SzFhYzlCSHlRblRKX0dRaTRzSDRxYnk2X2tfLTJPOUlCek1GVmpwYVlaUVdaYWd5NUZHa2xJb0VhZzJ0eE5OWFcxNjBRaWpmblpEVm9WZVpYZEV2SFh2cTltYW1DQ2YzOFJPaDNKalpjeS04eXRmZU5QQmJxQU1zVmxNNjRoSkFjemlvVGVpMGtCdGxJUmt0RHlpTGJYYXc?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-04-17T00:00:00-06:00",
+      "titulo": "Intenta cambiar de carril sin precauciÃ³n y provoca choque en el perifÃ©rico LEA de Saltillo",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/intenta-cambiar-de-carril-sin-precaucion-y-provoca-choque-en-el-periferico-lea-de-saltillo-OL20094082",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-03-30T10:55:00-06:00",
       "titulo": "Saltillo: ‘frenón’ en túnel de periférico desata carambola entre cuatro vehículos - vanguardia.com.mx",
