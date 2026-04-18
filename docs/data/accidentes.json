@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-04-17T14:37:00-06:00",
+  "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-18T02:36:26.215243-06:00",
-  "total_accidentes": 135,
+  "ultima_ejecucion": "2026-04-18T06:34:30.357727-06:00",
+  "total_accidentes": 137,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,20 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-18T06:34:05-06:00",
+      "titulo": "Conductor termina en el camellÃ³n tras accidente, en Saltillo",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/conductor-termina-en-el-camellon-tras-accidente-en-saltillo-OL20096923",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2026-04-18T06:34:04-06:00",
+      "titulo": "Choque de tractocamiones deja un lesionado, en tramo Los Chorros",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/choque-de-tractocamiones-deja-un-lesionado-en-tramo-los-chorros-KL20099737",
+      "confianza": "media"
+    },
     {
       "fecha": "2026-04-17T14:37:00-06:00",
       "titulo": "Intenta cambiar de carril sin precaución y provoca choque en el periférico LEA de Saltillo - vanguardia.com.mx",
