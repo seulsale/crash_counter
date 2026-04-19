@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-18T14:23:57.856428-06:00",
-  "total_accidentes": 137,
+  "ultima_ejecucion": "2026-04-18T19:21:56.102869-06:00",
+  "total_accidentes": 138,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -484,6 +484,13 @@
       "titulo": "Fallecen dos mujeres en fuerte accidente vial en el periférico LEA de Saltillo - democratacoahuila.com",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2dOM3luLUZxdWt3dElSeU9yV0dFemRDLWRkRDNxR21OV0ExUU9VWFRUcFE5cVJFWHNaaEV6dzUxMXFZdkk4RFppUVRpS2FkZ3lHbjZEMEU1b2tkRjFCNGV5YWFzSWktamdFQi1GWEFJNWc1NVNMdTVaV1JvYU40M0MyLWxhTFdwNHF4N0pmbm94THp6YUN1N3VPQ19wSW5JTlh4SjU4TXd6aUk0NV9fMDNjaEFjNUs0blRLVdIBwgFBVV95cUxOWnFCWmU1bm5mV0I1dmx4WDdjTzhwS3cxazA1aWFFVFJYaGp4R1RaTDdOTndsR1psZFlkdHpMWTIxbkJwX2szWjVrSkdLd04wSXE1akxpdkpnclpTRlZEZy1pRFNJVHdkYTBuYnhHamQ0MnljbnFrMWJsSlRNVEd6T2FxSGV5bUxNTkV4NVI3Y1o3cmJDR2tuRVkwMjF3Vy05dDlrRHJpWFpJbElkeXFqQk5YVEMtNWhDOEJhWWV3bDJVQQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2025-11-16T00:00:00-06:00",
+      "titulo": "Fuerte accidente al sur de Saltillo deja 2 muertos y 3 lesionados - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGZhekdrVWQyaTd6bHdBcTJvRWJoWWF3Szlpczd6VXhDZVlGM0IxUFlaVEV3RlpkazJueFo5ZkZtbXpETHZzclI1TlJpeDN3amZEdWZaMld3UGNuNlMxLU9zSEZNVWlMNTBRMWkwdW1rV19yMFpPYUdjeXFDendVOHRDNmRRbmV6NHduTVRhNWQ5U1FnRHdKLXZuLVJobjV0WVRscnRFQ1M4TUVjT3ExaU9oVlRrNGhrYk1R?oc=5",
       "confianza": "alta"
     },
     {
