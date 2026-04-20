@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-19T19:22:28.959824-06:00",
-  "total_accidentes": 139,
+  "ultima_ejecucion": "2026-04-20T00:08:34.108739-06:00",
+  "total_accidentes": 140,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -331,6 +331,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGtNUVdYd3cyQm5OVkE2b3I3aWhFeFozQTZ1c1g1VmMzZGJpdG55RW11ODZqUlV6MkpqNlFjQ1laakc2b1ZhSE1BUnllODE3NWFyRTJoZmZxQnZZTUVyWVBpY19FclFLMXJFZ3FRZHRUSGxnYlRiMG9uLVdoWFZHWHppRkotd1dGc1BCUVFJeDJHbV9ZVzBoR09QcGRjYzA1RmVsMHF3?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2026-01-11T02:00:00-06:00",
+      "titulo": "Lluvias, apagones y accidentes viales en Saltillo por frente frío 27 - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDFoZ2pYVTFNVXgwNGRna29lU1pwajFtV2t2WVhIcGYtX3RoS1R1cEpGcTVYYlRrUllpZnpuZFdqd1E5MDNydUN1b3lFSDAxN2JqQ0wyUUJ4V0xOazJMekdmbHdWZ29EX2hTZ1dfN0xCcEFLb243am8xeEVJN2R4X08yV2ZhTUZlWVZQM0pWOUpoQmNPTVRmSnFZaGwzRDh2a3dQenJhUFNsbW10MGxqZ0JxXzdBbENPUnJiemdQTQ?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2026-01-05T02:00:00-06:00",
