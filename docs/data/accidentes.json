@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-22T03:10:43.959305-06:00",
-  "total_accidentes": 141,
+  "ultima_ejecucion": "2026-04-22T06:56:20.217314-06:00",
+  "total_accidentes": 142,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -373,6 +373,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG41U3B2dXVLTlBYQkR3WXR5TG45SFFQeU91WHJldHA2bldqLThkQjlaRDB1WWFiNTgweG9VdGVLZ1JKOFVVZFhKS2JOQUUxdUxYUE1zR29wN3BPUUN5MFRxTGdfanByT2s1S0tXb3Rfb2RwajZENVpsWTNzd1VhcmpDenF3Tnk2QzYzVlJMSFpySTFSR0ZyaDQ2aWZMdw?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2025-12-20T02:00:00-06:00",
+      "titulo": "Ebrio conductor queda prensado tras choque - La Prensa de Coahuila",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGVDUWZiTm51Tmg3b2JKaEdxOGRzcDFaZ2p0QXEzc19JeDNtcGFRV3FEOUlYYVpaX2QxZHFVa2c2VmY5aVZHUVRnc2I1ZHpZcnBuRFk2UGt0U3I3bEdWMkpsMUxkc19RRjN4ZWNUeDU2MWh5b0tCZk9OQ2NnMzZ1bklqYmJrLU81MlBoU2d2UE9RQQ?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2025-12-17T02:00:00-06:00",
