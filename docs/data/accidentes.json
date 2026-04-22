@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-21T23:55:17.845167-06:00",
-  "total_accidentes": 140,
+  "ultima_ejecucion": "2026-04-22T03:10:43.959305-06:00",
+  "total_accidentes": 141,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -106,6 +106,13 @@
       "titulo": "Impacta a ruta Periférico al ignorar el semáforo en Saltillo; deja dos lesionados - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamRRMGtKU3V0VkNoeENrTEpGWUFlRXM3YW1nN0Y2Sl9ybTJydFl4dkhITFN1YXJMd0dtd21WQlBmZi1ycXhKV0hOcFVlVDhzRm9mcmhsSkZseFROSmptQXpmUzd2X3lCWG1kaXVKMWRWT0J0M3ZlSF9WOUF3cmFCTGNWR2R6b1RWZW9ZNlVmVno0VkFlY2lIbFZvSWUzTVhQWl9kb0lBamt1RjQxQ21wME9VZlB6RVROd1J4bldQcmZHdF9wYWNSb0lxeGE1Q09T?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-03-09T01:00:00-06:00",
+      "titulo": "Saltillo: intentó abrir paso a ambulancia y terminó chocando en V. Carranza - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGk4ai1keTZQTzNZdGpFZVNxdXBFVUdPTEpzT3A4WmwzRHFtOHFWUlVuQXhvYk1id2dUWlFlR2o3X1hNQng5NDFZV29VbGhzdDN3OHo1Njlac2F4dU1nb2R1bWtyUjNfUHdsazRtWDZvcXItTW9MbmtWWkNmbWc4VEVXUjROTkNzamVSd1BHRWM4RTBsVW1JTXlvZUVtOVpvTnJDV2tCX2gwMmd3NnBJMW9yTEJqUDVZLXlBcmpfREhLTzQ4bnQ4?oc=5",
       "confianza": "alta"
     },
     {
