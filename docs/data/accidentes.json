@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-04-18T06:34:05-06:00",
+  "ultimo_accidente": "2026-04-23T09:39:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-23T06:56:29.862562-06:00",
-  "total_accidentes": 144,
+  "ultima_ejecucion": "2026-04-23T11:07:58.552158-06:00",
+  "total_accidentes": 145,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,13 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-23T09:39:00-06:00",
+      "titulo": "Saltillo: vuelca camioneta en periférico LEA; conductora resulta ilesa tras impactar a otro vehículo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeDRxM2lnR2lyOU41UGdvZnZ4SnNxbDRHcThUYmhISnJJcFBCdncyMjBaS2NPUFBpcDRUd1hzWFFWS2tSNFJKUWtwc0EtVU1idkRtdW9TM3VFRjFEdlJoZkEtcmFmZFduV3ZvOFV4Y0JNMHpqVTV2NVhHSW1DaVlsODJZYUNPNW1VSG4yeHZIVDlxZlZNcVZ4blhjSm1WS0hSSWduVUp5aWVWajJBR3hKV1gyRWhQWE5SV3BpR3hlMWphOFFUU0NyQk53ZjVnemtrZEw3cUdJMGRidVlYenprcW1BVWVlVzll?oc=5",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-04-18T06:34:05-06:00",
       "titulo": "Conductor termina en el camellÃ³n tras accidente, en Saltillo",
