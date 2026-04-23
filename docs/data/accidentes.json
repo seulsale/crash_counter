@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-22T19:22:49.302523-06:00",
-  "total_accidentes": 142,
+  "ultima_ejecucion": "2026-04-22T23:59:00.336625-06:00",
+  "total_accidentes": 143,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -36,6 +36,13 @@
       "titulo": "Intenta cambiar de carril sin precauciÃ³n y provoca choque en el perifÃ©rico LEA de Saltillo",
       "fuente": "Vanguardia",
       "url": "https://vanguardia.com.mx/coahuila/saltillo/intenta-cambiar-de-carril-sin-precaucion-y-provoca-choque-en-el-periferico-lea-de-saltillo-OL20094082",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-04-02T01:00:00-06:00",
+      "titulo": "Detienen a hombre que se encontraba golpeando autos con un palo de madera en periférico Luis Echeverría, Salti - Telediario México",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbS1EMDRrMVMwVlRseVV4bEp3VjF3Z0NGMGdDRUdQdFVlZVF3WnEtLVdaQ2xLTTg3TlZxbVB4alBFRjUyMG95OWQzODk0MjZqTmgycWVBQ2lNMVQ4ZG9FMmQxYkJmczUzMHlJLUF0cXNpR2wzeG1aUVhlakxoYXNMSkFDMlZDWVg1WUdfejZ1bWtrS2FCb2pKZF84d29RSG9ubFHSAaIBQVVfeXFMTnhEX1ljMXhlMllySGpvX0M5MVlLcWs1YnprTGZKUnNKNEtfa0JhQUZWeTVjNnp6eUM4TE1qbVJNRDk3T0VYYTVIWXpyTm1qTU5LQmVhTkNPTWhyOW03U3JZVUpZZF9NVHJVWWJEWnhaaVdRTHVldm1aVTNxMlJSLXdKbnJXUWcwMThKZ0pwSjZBR3djcW1zcU1hUnZPVWFneExR?oc=5",
       "confianza": "alta"
     },
     {
