@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-18T06:34:05-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-23T03:27:26.310429-06:00",
-  "total_accidentes": 143,
+  "ultima_ejecucion": "2026-04-23T06:56:29.862562-06:00",
+  "total_accidentes": 144,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -183,6 +183,13 @@
       "titulo": "Trasnochado confunde luz del semáforo y provoca accidente, al sur de Saltillo - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3B0blFvUTBmYTdxTE5ZNlRGbGE4cS1fT0pKVTJIUFFEcDZoLXlpUjBYWHF1XzJtRUlIS3lKLVI5eVFQeDRucXpyUWhXTWpaWkVYSi1LVDN4eldvRHVpWHlyWURfQUExODBuQ2h3aExmenB2LWh4RjIxMjlUZXBHRERHeXdMUUN1aGlOY1I5Mko3a3BSd19iY2Vnb24zc3dZM3VmQlc3a1VqZ1NpTTZ5VnROQWpXR0ZsTkRQeTMzQVc3UU95VDl5NHdIRQ?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-08T02:00:00-06:00",
+      "titulo": "Kia Sportage colisiona contra ‘ballenas’ de puente vehicular al norte de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmk2TE83OEhPclNUcTdoT3lXMUFCdHQ5bUlQVTBxN3NQcjY1bkMyMTBhbUdscDBIejh5NElrZ1NWdDRhN1ZfcTZaemZSUFhuNFFfQVZ4ZFZhbUFtMV9ZTnpyaU9KU1pHd2lfeXliaUpYaWlheEtBMzRDb0syZ3hHbTBlZUQ2ZlRiVnlubjVvQk5QbmRUVmNYWTFpUFRfTFZ5YWJpTUhQeWRlWjB3S2RUR2VJUi1ZTkg2aEhKX2ttb2s1a2Q2NlFMRWJWejVfTVE?oc=5",
       "confianza": "alta"
     },
     {
