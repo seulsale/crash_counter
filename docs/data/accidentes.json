@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-04-23T09:39:00-06:00",
+  "ultimo_accidente": "2026-04-24T14:34:22-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-24T10:43:54.511174-06:00",
-  "total_accidentes": 145,
+  "ultima_ejecucion": "2026-04-24T14:35:12.515455-06:00",
+  "total_accidentes": 148,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,27 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-24T14:34:22-06:00",
+      "titulo": "Vuelca trÃ¡iler por trÃ¡fico detenido tras manifestaciÃ³n y provoca accidentes mÃºltiples en Saltillo",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/vuelca-trailer-por-trafico-detenido-tras-manifestacion-y-provoca-accidentes-multiples-en-saltillo-LE20241648",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2026-04-24T12:35:00-06:00",
+      "titulo": "Fuerte choque con tractocamión colapsa el periférico LEA en Saltillo - PostaMx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcG5va0xEU0lZYzNRMHAwQUhxV3ExSmNVWGlzYXNXVXBuUGx6YVcxRmNsWk5GWHdtUGt2THVoLU0wX1FHbldOOEh4RTMtMGpQSTlVVU56Z2F5OWJQaUlTaXdyNWFJVHQ1cWRVTmN0T0FvcE9pdGFydEZVcG8tQ0NuTzlGZW04LTdaZ3EzaDJSZnhSa1l5SW5ZUDgwVGM5cGdvLVBZ0gGoAUFVX3lxTFBTWk85bGFUN3VXa2ZZQjJVQnNKcGF5SFF4cy1acnNkYlluUXlQYWpRMzhQXzZkcDVVTUgyXzBOckFSYlZPb0NOMlJyZVRGQnpRcm9KYkhQOVY4SUs3WG9tTWpRYlcwczdNMGF2VTVfOTZIa1R4VGxlWU5EQ0pzeG1OX2RzaEI4Y2YtZFRKVTlGakZyUWxzalgyZ0FvZWJTMnVlNjBvRVZ2eg?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-04-24T12:20:43-06:00",
+      "titulo": "Aparatoso choque en periférico de Saltillo desata congestionamiento vial - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnhzLU41UnNKblRJV2o0WUJuWDVCcGlfSXJMejJ2TEsyanVxRDhnazh5YU1Da0hrR25yeDhjeUtFcGdVOUVaYURtTWlEd05DNVFQQi15UTZfWDFRT3dEUV9ueHZOZU1sTkw1Q0EwSHdQN0lSRmFXMndTU3JPc0UwX3dFWXd4UTI5SDhfOGVKM0tydDVLaEZYVm5Ma0VEejM0cTVYWkgzMWQtY0lrelUxLUphQU9GM3hZdkhSRUN4cWdSY29N?oc=5",
+      "confianza": "alta"
+    },
     {
       "fecha": "2026-04-23T09:39:00-06:00",
       "titulo": "Saltillo: vuelca camioneta en periférico LEA; conductora resulta ilesa tras impactar a otro vehículo - vanguardia.com.mx",
