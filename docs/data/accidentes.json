@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-24T14:34:22-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-25T10:28:50.686199-06:00",
-  "total_accidentes": 151,
+  "ultima_ejecucion": "2026-04-25T14:26:54.063646-06:00",
+  "total_accidentes": 152,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -1016,6 +1016,13 @@
       "titulo": "Se registra fuerte accidente en Periférico Luis Echeverría | Periódico Zócalo | Noticias de Saltillo, Torreón, Piedras Negras, Monclova, Acuña - Zócalo",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXFqZWNCRFNKNGZNNVM5ck1qVmhGbGQtU1pNd0gxRVhieEFoSHRFQXBqUDh3T1NJNXNwUGZaeVlvWGFXOVgwR040ekQwckJwdHZsVWpGanBscjNGTHZmTXZLUVgwalZPNHVYRzZOZmJSYkZnbFhxNVB5MGx3Y1dEMldPdTJIUEU3bjF5aklR?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2022-06-30T02:00:00-06:00",
+      "titulo": "Carambola en Periférico de Torreón deja un lesionado y cuantiosos daños materiales - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGV6cjF4RGEyU3M5czhSQjZIcXp2aWU0WEFTajA4QWtRcEVWUDdQVTFQZkVkQlRRNGE2cHBoaDJxcVJkTjNDMHNRUGx1MVhPOXlaOUF0ZXl0S05qQmNyVUdkanVNX1pnUUtyVjhwYmU2QjNva3h3TGNSc0cwWWxIMHo0TENoUUhNSC1CVXhOeGlBWmJhb19KWm9QYTRDYU0ydDhCem1QTUM5SEpZem9SNzdsWlpDX01FVXpuV1ViOGFtT0JGV2Q0ZnNSYkZ5enR5VEE?oc=5",
       "confianza": "alta"
     },
     {
