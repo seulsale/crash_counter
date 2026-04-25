@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-24T14:34:22-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-24T19:15:46.855801-06:00",
-  "total_accidentes": 148,
+  "ultima_ejecucion": "2026-04-24T23:43:15.096842-06:00",
+  "total_accidentes": 149,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -15,6 +15,13 @@
       "titulo": "Vuelca trÃ¡iler por trÃ¡fico detenido tras manifestaciÃ³n y provoca accidentes mÃºltiples en Saltillo",
       "fuente": "Vanguardia",
       "url": "https://vanguardia.com.mx/coahuila/saltillo/vuelca-trailer-por-trafico-detenido-tras-manifestacion-y-provoca-accidentes-multiples-en-saltillo-LE20241648",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2026-04-24T12:59:00-06:00",
+      "titulo": "Vuelca tráiler por tráfico detenido tras manifestación y provoca accidentes múltiples en Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdXozQ2R2a01LX0VfYmtCNklZcXA5dEFiSmtTZFIwOVlCMUJZWWpGbkk4ajdDMUtKYTZ6WmFJMVFYUTdFSmlHdjZNbHhDY2dsc3BFUkYxWDJzWkFCUDN4b2ZzQkl3ZnptTEFwMVhIR3dsX0J0Vlhkd0VMMGQwUmhsU3h0dFFUVXJSQWVMaXJ2YmgwVG1NU2pGLTV0a0g3YUthRzgzdXBrRVV3Z1RzbFJJYjR3ellfcEpYSGNhcEN2UDFCdnBYR3NyMkE0Y2lObmlfRkdzdmprWnNyeXBlR1RMQk5fQjNadDA?oc=5",
       "confianza": "media"
     },
     {
