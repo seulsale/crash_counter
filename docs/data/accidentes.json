@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-04-24T14:34:22-06:00",
+  "ultimo_accidente": "2026-04-28T00:23:08.870467-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-27T19:45:23.360848-06:00",
-  "total_accidentes": 157,
+  "ultima_ejecucion": "2026-04-28T00:23:45.112577-06:00",
+  "total_accidentes": 159,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,20 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-28T00:23:08.870467-06:00",
+      "titulo": "Aparatoso choque contra camiÃ³n deja dos heridos graves en la SaltilloâTorreÃ³n",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/aparatoso-choque-contra-camion-deja-dos-heridos-graves-en-la-saltillo-torreon-OI20288035",
+      "confianza": "media"
+    },
+    {
+      "fecha": "2026-04-28T00:23:07.186008-06:00",
+      "titulo": "Conductor atropella y mata a adulto mayor, en Saltillo",
+      "fuente": "Vanguardia",
+      "url": "https://vanguardia.com.mx/coahuila/saltillo/conductor-atropella-y-mata-a-adulto-mayor-en-saltillo-HA20311402",
+      "confianza": "media"
+    },
     {
       "fecha": "2026-04-24T14:34:22-06:00",
       "titulo": "Vuelca trÃ¡iler por trÃ¡fico detenido tras manifestaciÃ³n y provoca accidentes mÃºltiples en Saltillo",
