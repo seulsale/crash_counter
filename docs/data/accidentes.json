@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-28T00:23:08.870467-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-28T11:28:15.418204-06:00",
-  "total_accidentes": 159,
+  "ultima_ejecucion": "2026-04-28T14:57:38.809664-06:00",
+  "total_accidentes": 160,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -247,6 +247,13 @@
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3B0blFvUTBmYTdxTE5ZNlRGbGE4cS1fT0pKVTJIUFFEcDZoLXlpUjBYWHF1XzJtRUlIS3lKLVI5eVFQeDRucXpyUWhXTWpaWkVYSi1LVDN4eldvRHVpWHlyWURfQUExODBuQ2h3aExmenB2LWh4RjIxMjlUZXBHRERHeXdMUUN1aGlOY1I5Mko3a3BSd19iY2Vnb24zc3dZM3VmQlc3a1VqZ1NpTTZ5VnROQWpXR0ZsTkRQeTMzQVc3UU95VDl5NHdIRQ?oc=5",
       "confianza": "alta"
+    },
+    {
+      "fecha": "2026-02-12T02:00:00-06:00",
+      "titulo": "Derrame de aceite provoca choca múltiple en Saltillo - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEpKWjZvVE4xaEFvd2R2dFdVUjRSSmFGSnVpM3QyRTZtUzhfTVJGLUREVWtHblBEbVdUSE9UcnRCNUQ5UVVUT25XZGJfV3NrdDRhTFdVdFVONzJaaTNOZ3l5aHNUNHRrQ2NnMGlyZHhlNTJLLVR5cVpadks3dHBCTV9pdkxlX1F6RlhCR2lsMTlwa01wLXd2cmRfcEN2WmNCZy14OVFNUnJJQQ?oc=5",
+      "confianza": "media"
     },
     {
       "fecha": "2026-02-08T02:00:00-06:00",
