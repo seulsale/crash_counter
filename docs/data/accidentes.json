@@ -1,8 +1,8 @@
 {
   "ultimo_accidente": "2026-04-28T00:23:08.870467-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-29T07:17:52.566235-06:00",
-  "total_accidentes": 160,
+  "ultima_ejecucion": "2026-04-29T11:14:54.074826-06:00",
+  "total_accidentes": 161,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -149,6 +149,13 @@
       "fuente": "Vanguardia",
       "url": "https://vanguardia.com.mx/coahuila/saltillo/chofer-pierde-la-vida-desmembrado-tras-volcadura-en-libramiento-norponiente-CP19614305",
       "confianza": "media"
+    },
+    {
+      "fecha": "2026-03-17T01:00:00-06:00",
+      "titulo": "Vuelca vehículo de plataforma en desnivel del periférico; tres personas resultan lesionadas - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMWx6VExOLUZoZkhqYUxTYVRHLVB2bTJVYXZ0RllXS3hxQmU4NDlJSjdqRmdaSEJzNDVDRG9PRC1mZnFocms0RWFjZTF6WGg4YXA4R3ljWVZ1R2xPVm5LYV9jeDZXNHE2anU4NUFQcExiMWJCT3FvcGJvOWtHbGNUTThXVmxvRUdYb3c3MzJTamRjVEdOdW44bmVHN2tTMFNFLTlOOFQzeEVuZ0VEWGgwSGw4LUhaZlFwNHFiZmpsTWtrRWtKNE5rUFp4STRxYlFsMzRWbFFJYjgxR3hQ?oc=5",
+      "confianza": "alta"
     },
     {
       "fecha": "2026-03-16T19:30:00-06:00",
