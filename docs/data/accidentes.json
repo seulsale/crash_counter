@@ -1,8 +1,8 @@
 {
-  "ultimo_accidente": "2026-04-28T00:23:08.870467-06:00",
+  "ultimo_accidente": "2026-04-30T10:04:00-06:00",
   "racha_maxima_dias": 1161,
-  "ultima_ejecucion": "2026-04-30T07:16:49.774386-06:00",
-  "total_accidentes": 161,
+  "ultima_ejecucion": "2026-04-30T11:08:19.650850-06:00",
+  "total_accidentes": 164,
   "fuentes_consultadas": [
     "Google News RSS",
     "Vanguardia (vanguardia.com.mx)",
@@ -10,6 +10,20 @@
     "El Diario de Coahuila (eldiariodecoahuila.com.mx)"
   ],
   "accidentes": [
+    {
+      "fecha": "2026-04-30T10:04:00-06:00",
+      "titulo": "Saltillo: no respeta luz roja y provoca choque en cadena en periférico LEA - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlpJZW4yd0ctYVhzSzlZeHFUdkxLNGtFcmk3dW4yZHdlR2NyMUtUdVhBcEZiemdMU2pfcHIxS0VKUFBhclRZRVFHdjhERlZvbkZqMHpSa2JMckRKMVJsVGlXUUxhYTBfNHJSTjlCQkVobVFnV19rcmFmSlFzbkJUdElOZmp5TW1MeVdkY0gzbDNhTjdkMlVpbkZzc0FiR21TQ3VKQ1UzSGZRQ1dEUTZsMEJjRHJuWXgtdmV5Tm9XNE5aLXlZZm1N?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-04-30T10:04:00-06:00",
+      "titulo": "Intento de orillarse provoca choque múltiple sobre puente al sur de Saltillo - vanguardia.com.mx",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZFZHTkZmTzZtR0xBRVhXV0ZCbEktbHFGUFpQZVJDc1BmaHVab2JmQ0hzLTBsdDAtNjJHeXNzU3JxWkJXSFNzaXlkV1dvRVdXRjRodDRGZ2txbkZTYW1MMmRHYk9YQ05SaVNjU3FlbGxRd1VuZFQ2WGlsaDdZRzJfTDRwbElUYmg3N1RFVWlFU0pVcUl3VXlUMzh6VjZQT01IMnN5UjVmWlNCMU0tdVQyQzAwMTdMc2ktYzRHVEU5MUFSTFc2NkxwUHpSWQ?oc=5",
+      "confianza": "media"
+    },
     {
       "fecha": "2026-04-28T00:23:08.870467-06:00",
       "titulo": "Aparatoso choque contra camiÃ³n deja dos heridos graves en la SaltilloâTorreÃ³n",
@@ -120,6 +134,13 @@
       "titulo": "Saltillo: circula moto en sentido contrario y choca contra ruta Periférico en la Bellavista - vanguardia.com.mx",
       "fuente": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGM3MDdLdF9QR1hjTmdJZGFmWUtzUzd3ektVYVNrSndPZGhyeGtVdkx3Um5wc002TFQ3ZEVidFY1UGJudGVpR09EY09FRWNNTGNnVFFmRnRsOWY4TDRGZGV0cW5BLTA5S0hMYldKcTFXTlZmRGtUY1BidGlSdGdoTkU4VVgzTW5fdUZlQVB6a0IzdGdyNUlKX28zNkVEOVpOemgzVmcyVV9BbkZpNllaVDBkRFIxTkhCUk5rUUxwa0N4TlNhQjlNdmtMT0FXNVQyalJiaW9sT3ctZEI1MFE?oc=5",
+      "confianza": "alta"
+    },
+    {
+      "fecha": "2026-03-23T01:00:00-06:00",
+      "titulo": "Choque con volcadura en Saltillo deja daños tras ignorar semáforo en rojo - El Siglo de Torreón",
+      "fuente": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYTU3dDhCVThBQjhCZUxXWndqcEROM2dNT1ZlVjJkT1FJbU9xVWxmd3R1YTBVcTZkb1NhbjFDUE5JQlZMeG1KV0dydFhubnZyLVZhVXVuZmdfMFkwR2F4QjBWZlUtOF9IbEktbGVsb2hmcnZHQ3MtcGpaTDBOWUFjelRZMG9zSVVpd0JlOHhYaEQwd0pRMFMtelZpUGlMYVBDVWlGV0I5UlVnb0s4bWpTMnJidDUxZWJWZWhRalZQTzB0YlZ4MEE?oc=5",
       "confianza": "alta"
     },
     {
